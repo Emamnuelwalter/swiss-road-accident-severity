@@ -1,0 +1,2132 @@
+BFS-Gde-nummer;Gemeindename;Kantons-nummer;Kanton;Bezirks-nummer;Bezirksname;Stadt/Land-Typologie;Gemeindetypologie (9 Typen);Gemeindetypologie (25 Typen)
+1;Aeugst am Albis;1;ZH;101;Affoltern;3;23;237
+2;Affoltern am Albis;1;ZH;101;Affoltern;1;11;112
+3;Bonstetten;1;ZH;101;Affoltern;2;22;227
+4;Hausen am Albis;1;ZH;101;Affoltern;2;22;227
+5;Hedingen;1;ZH;101;Affoltern;1;11;113
+6;Kappel am Albis;1;ZH;101;Affoltern;3;23;237
+7;Knonau;1;ZH;101;Affoltern;2;22;227
+8;Maschwanden;1;ZH;101;Affoltern;3;23;236
+9;Mettmenstetten;1;ZH;101;Affoltern;2;22;226
+10;Obfelden;1;ZH;101;Affoltern;2;21;217
+11;Ottenbach;1;ZH;101;Affoltern;2;22;226
+12;Rifferswil;1;ZH;101;Affoltern;3;23;236
+13;Stallikon;1;ZH;101;Affoltern;2;22;227
+14;Wettswil am Albis;1;ZH;101;Affoltern;2;21;216
+22;Benken (ZH);1;ZH;102;Andelfingen;3;23;235
+23;Berg am Irchel;1;ZH;102;Andelfingen;2;22;227
+24;Buch am Irchel;1;ZH;102;Andelfingen;3;23;235
+25;Dachsen;1;ZH;102;Andelfingen;2;22;226
+26;Dorf;1;ZH;102;Andelfingen;3;23;237
+27;Feuerthalen;1;ZH;102;Andelfingen;1;12;123
+28;Flaach;1;ZH;102;Andelfingen;2;22;227
+29;Flurlingen;1;ZH;102;Andelfingen;1;12;123
+31;Henggart;1;ZH;102;Andelfingen;2;22;226
+33;Kleinandelfingen;1;ZH;102;Andelfingen;2;21;216
+34;Laufen-Uhwiesen;1;ZH;102;Andelfingen;2;22;226
+35;Marthalen;1;ZH;102;Andelfingen;2;22;227
+37;Ossingen;1;ZH;102;Andelfingen;3;23;237
+38;Rheinau;1;ZH;102;Andelfingen;3;23;237
+39;Thalheim an der Thur;1;ZH;102;Andelfingen;3;23;236
+40;Tr�llikon;1;ZH;102;Andelfingen;3;23;237
+41;Truttikon;1;ZH;102;Andelfingen;3;23;235
+43;Volken;1;ZH;102;Andelfingen;2;22;227
+51;Bachenb�lach;1;ZH;103;B�lach;1;11;113
+52;Bassersdorf;1;ZH;103;B�lach;1;11;113
+53;B�lach;1;ZH;103;B�lach;1;11;113
+54;Dietlikon;1;ZH;103;B�lach;1;11;112
+55;Eglisau;1;ZH;103;B�lach;2;21;217
+56;Embrach;1;ZH;103;B�lach;1;11;113
+57;Freienstein-Teufen;1;ZH;103;B�lach;1;11;113
+58;Glattfelden;1;ZH;103;B�lach;2;22;227
+59;Hochfelden;1;ZH;103;B�lach;2;22;226
+60;H�ri;1;ZH;103;B�lach;1;11;113
+61;H�ntwangen;1;ZH;103;B�lach;3;23;236
+62;Kloten;1;ZH;103;B�lach;1;11;112
+63;Lufingen;1;ZH;103;B�lach;2;22;227
+64;N�rensdorf;1;ZH;103;B�lach;2;22;227
+65;Oberembrach;1;ZH;103;B�lach;3;23;235
+66;Opfikon;1;ZH;103;B�lach;1;11;112
+67;Rafz;1;ZH;103;B�lach;2;22;226
+68;Rorbas;1;ZH;103;B�lach;1;11;113
+69;Wallisellen;1;ZH;103;B�lach;1;11;112
+70;Wasterkingen;1;ZH;103;B�lach;3;23;237
+71;Wil (ZH);1;ZH;103;B�lach;3;23;236
+72;Winkel;1;ZH;103;B�lach;1;11;113
+81;Bachs;1;ZH;104;Dielsdorf;3;23;237
+82;Boppelsen;1;ZH;104;Dielsdorf;3;23;235
+83;Buchs (ZH);1;ZH;104;Dielsdorf;1;11;113
+84;D�llikon;1;ZH;104;Dielsdorf;1;11;112
+85;D�nikon;1;ZH;104;Dielsdorf;2;22;226
+86;Dielsdorf;1;ZH;104;Dielsdorf;2;21;217
+87;H�ttikon;1;ZH;104;Dielsdorf;2;22;227
+88;Neerach;1;ZH;104;Dielsdorf;2;22;227
+89;Niederglatt;1;ZH;104;Dielsdorf;1;11;113
+90;Niederhasli;1;ZH;104;Dielsdorf;1;11;113
+91;Niederweningen;1;ZH;104;Dielsdorf;2;22;226
+92;Oberglatt;1;ZH;104;Dielsdorf;1;11;113
+93;Oberweningen;1;ZH;104;Dielsdorf;2;22;227
+94;Otelfingen;1;ZH;104;Dielsdorf;2;22;227
+95;Regensberg;1;ZH;104;Dielsdorf;2;22;227
+96;Regensdorf;1;ZH;104;Dielsdorf;1;11;112
+97;R�mlang;1;ZH;104;Dielsdorf;2;21;217
+98;Schleinikon;1;ZH;104;Dielsdorf;2;22;227
+99;Sch�fflisdorf;1;ZH;104;Dielsdorf;2;22;227
+100;Stadel;1;ZH;104;Dielsdorf;2;22;227
+101;Steinmaur;1;ZH;104;Dielsdorf;2;21;217
+102;Weiach;1;ZH;104;Dielsdorf;2;22;226
+111;B�retswil;1;ZH;105;Hinwil;2;22;227
+112;Bubikon;1;ZH;105;Hinwil;2;21;216
+113;D�rnten;1;ZH;105;Hinwil;1;13;137
+114;Fischenthal;1;ZH;105;Hinwil;3;32;326
+115;Gossau (ZH);1;ZH;105;Hinwil;2;21;216
+116;Gr�ningen;1;ZH;105;Hinwil;2;22;227
+117;Hinwil;1;ZH;105;Hinwil;2;21;216
+118;R�ti (ZH);1;ZH;105;Hinwil;1;13;137
+119;Seegr�ben;1;ZH;105;Hinwil;2;22;227
+120;Wald (ZH);1;ZH;105;Hinwil;2;21;217
+121;Wetzikon (ZH);1;ZH;105;Hinwil;1;11;112
+131;Adliswil;1;ZH;106;Horgen;1;11;113
+135;Kilchberg (ZH);1;ZH;106;Horgen;1;11;113
+136;Langnau am Albis;1;ZH;106;Horgen;1;11;113
+137;Oberrieden;1;ZH;106;Horgen;1;11;113
+138;Richterswil;1;ZH;106;Horgen;1;11;113
+139;R�schlikon;1;ZH;106;Horgen;1;11;113
+141;Thalwil;1;ZH;106;Horgen;1;11;113
+151;Erlenbach (ZH);1;ZH;107;Meilen;1;11;113
+152;Herrliberg;1;ZH;107;Meilen;1;11;113
+153;Hombrechtikon;1;ZH;107;Meilen;2;21;217
+154;K�snacht (ZH);1;ZH;107;Meilen;1;11;113
+155;M�nnedorf;1;ZH;107;Meilen;1;11;113
+156;Meilen;1;ZH;107;Meilen;1;11;113
+157;Oetwil am See;1;ZH;107;Meilen;2;21;216
+158;St�fa;1;ZH;107;Meilen;1;11;113
+159;Uetikon am See;1;ZH;107;Meilen;1;11;113
+160;Zumikon;1;ZH;107;Meilen;1;11;113
+161;Zollikon;1;ZH;107;Meilen;1;11;113
+172;Fehraltorf;1;ZH;108;Pf�ffikon;2;21;217
+173;Hittnau;1;ZH;108;Pf�ffikon;2;22;226
+176;Lindau;1;ZH;108;Pf�ffikon;2;22;226
+177;Pf�ffikon;1;ZH;108;Pf�ffikon;1;11;113
+178;Russikon;1;ZH;108;Pf�ffikon;2;22;226
+180;Weisslingen;1;ZH;108;Pf�ffikon;2;22;227
+181;Wila;1;ZH;108;Pf�ffikon;2;22;226
+182;Wildberg;1;ZH;108;Pf�ffikon;3;23;236
+191;D�bendorf;1;ZH;109;Uster;1;11;112
+192;Egg;1;ZH;109;Uster;2;21;217
+193;F�llanden;1;ZH;109;Uster;1;11;113
+194;Greifensee;1;ZH;109;Uster;1;11;113
+195;Maur;1;ZH;109;Uster;2;22;227
+196;M�nchaltorf;1;ZH;109;Uster;2;22;226
+197;Schwerzenbach;1;ZH;109;Uster;1;11;112
+198;Uster;1;ZH;109;Uster;1;11;113
+199;Volketswil;1;ZH;109;Uster;1;11;112
+200;Wangen-Br�ttisellen;1;ZH;109;Uster;1;11;112
+211;Altikon;1;ZH;110;Winterthur;3;23;235
+213;Br�tten;1;ZH;110;Winterthur;2;22;227
+214;D�gerlen;1;ZH;110;Winterthur;3;23;237
+215;D�ttlikon;1;ZH;110;Winterthur;3;23;237
+216;Dinhard;1;ZH;110;Winterthur;3;23;236
+218;Ellikon an der Thur;1;ZH;110;Winterthur;3;23;236
+219;Elsau;1;ZH;110;Winterthur;1;12;123
+220;Hagenbuch;1;ZH;110;Winterthur;3;23;237
+221;Hettlingen;1;ZH;110;Winterthur;2;22;226
+223;Neftenbach;1;ZH;110;Winterthur;1;12;123
+224;Pfungen;1;ZH;110;Winterthur;2;22;227
+225;Rickenbach (ZH);1;ZH;110;Winterthur;2;22;227
+226;Schlatt (ZH);1;ZH;110;Winterthur;3;23;237
+227;Seuzach;1;ZH;110;Winterthur;2;21;217
+228;Turbenthal;1;ZH;110;Winterthur;2;22;227
+230;Winterthur;1;ZH;110;Winterthur;1;12;121
+231;Zell (ZH);1;ZH;110;Winterthur;2;22;226
+241;Aesch (ZH);1;ZH;111;Dietikon;3;23;237
+242;Birmensdorf (ZH);1;ZH;111;Dietikon;2;21;217
+243;Dietikon;1;ZH;111;Dietikon;1;11;112
+244;Geroldswil;1;ZH;111;Dietikon;1;11;113
+245;Oberengstringen;1;ZH;111;Dietikon;1;11;113
+246;Oetwil an der Limmat;1;ZH;111;Dietikon;1;11;113
+247;Schlieren;1;ZH;111;Dietikon;1;11;112
+248;Uitikon;1;ZH;111;Dietikon;2;21;217
+249;Unterengstringen;1;ZH;111;Dietikon;1;11;113
+250;Urdorf;1;ZH;111;Dietikon;1;11;112
+251;Weiningen (ZH);1;ZH;111;Dietikon;1;11;113
+261;Z�rich;1;ZH;112;Z�rich;1;11;111
+291;Andelfingen;1;ZH;102;Andelfingen;2;21;216
+292;Stammheim;1;ZH;102;Andelfingen;3;32;327
+293;W�denswil;1;ZH;106;Horgen;1;11;113
+294;Elgg;1;ZH;110;Winterthur;2;22;227
+295;Horgen;1;ZH;106;Horgen;1;11;113
+296;Illnau-Effretikon;1;ZH;108;Pf�ffikon;1;11;113
+297;Bauma;1;ZH;108;Pf�ffikon;2;22;226
+298;Wiesendangen;1;ZH;110;Winterthur;2;22;227
+301;Aarberg;2;BE;243;Seeland;2;21;217
+302;Bargen (BE);2;BE;243;Seeland;2;21;216
+303;Grossaffoltern;2;BE;243;Seeland;2;22;226
+304;Kallnach;2;BE;243;Seeland;3;32;327
+305;Kappelen;2;BE;243;Seeland;2;22;226
+306;Lyss;2;BE;243;Seeland;1;13;136
+307;Meikirch;2;BE;246;Bern-Mittelland;3;23;237
+309;Radelfingen;2;BE;243;Seeland;3;23;235
+310;Rapperswil (BE);2;BE;243;Seeland;3;23;236
+311;Sch�pfen;2;BE;243;Seeland;2;22;227
+312;Seedorf (BE);2;BE;243;Seeland;3;32;327
+321;Aarwangen;2;BE;244;Oberaargau;3;32;326
+322;Auswil;2;BE;244;Oberaargau;3;32;325
+323;Bannwil;2;BE;244;Oberaargau;3;32;327
+324;Bleienbach;2;BE;244;Oberaargau;3;32;326
+325;Busswil bei Melchnau;2;BE;244;Oberaargau;3;32;325
+326;Gondiswil;2;BE;244;Oberaargau;3;32;325
+329;Langenthal;2;BE;244;Oberaargau;1;13;137
+331;Lotzwil;2;BE;244;Oberaargau;1;13;136
+332;Madiswil;2;BE;244;Oberaargau;3;32;327
+333;Melchnau;2;BE;244;Oberaargau;3;32;327
+335;Oeschenbach;2;BE;244;Oberaargau;3;32;325
+336;Reisiswil;2;BE;244;Oberaargau;3;32;325
+337;Roggwil (BE);2;BE;244;Oberaargau;3;32;326
+338;Rohrbach;2;BE;244;Oberaargau;3;32;326
+339;Rohrbachgraben;2;BE;244;Oberaargau;3;32;325
+340;R�tschelen;2;BE;244;Oberaargau;3;32;325
+341;Schwarzh�usern;2;BE;244;Oberaargau;3;32;327
+342;Thunstetten;2;BE;244;Oberaargau;3;32;326
+344;Ursenbach;2;BE;244;Oberaargau;3;32;326
+345;Wynau;2;BE;244;Oberaargau;3;32;327
+351;Bern;2;BE;246;Bern-Mittelland;1;11;111
+352;Bolligen;2;BE;246;Bern-Mittelland;1;11;113
+353;Bremgarten bei Bern;2;BE;246;Bern-Mittelland;1;11;113
+354;Kirchlindach;2;BE;246;Bern-Mittelland;2;22;227
+355;K�niz;2;BE;246;Bern-Mittelland;1;11;113
+356;Muri bei Bern;2;BE;246;Bern-Mittelland;1;11;112
+357;Oberbalm;2;BE;246;Bern-Mittelland;3;23;235
+358;Stettlen;2;BE;246;Bern-Mittelland;1;11;113
+359;Vechigen;2;BE;246;Bern-Mittelland;1;11;113
+360;Wohlen bei Bern;2;BE;246;Bern-Mittelland;2;22;227
+361;Zollikofen;2;BE;246;Bern-Mittelland;1;11;112
+362;Ittigen;2;BE;246;Bern-Mittelland;1;11;112
+363;Ostermundigen;2;BE;246;Bern-Mittelland;1;11;113
+371;Biel/Bienne;2;BE;242;Biel/Bienne;1;12;121
+372;Evilard;2;BE;242;Biel/Bienne;1;12;123
+381;Arch;2;BE;243;Seeland;2;22;226
+382;B�etigen;2;BE;243;Seeland;2;22;226
+383;B�ren an der Aare;2;BE;243;Seeland;2;31;316
+385;Diessbach bei B�ren;2;BE;243;Seeland;3;32;325
+386;Dotzigen;2;BE;243;Seeland;2;22;227
+387;Lengnau (BE);2;BE;242;Biel/Bienne;1;13;136
+388;Leuzigen;2;BE;243;Seeland;3;23;235
+389;Meienried;2;BE;243;Seeland;3;32;325
+390;Meinisberg;2;BE;242;Biel/Bienne;3;23;237
+391;Oberwil bei B�ren;2;BE;243;Seeland;3;32;325
+392;Pieterlen;2;BE;242;Biel/Bienne;2;22;226
+393;R�ti bei B�ren;2;BE;243;Seeland;3;23;237
+394;Wengi;2;BE;243;Seeland;3;23;235
+401;Aefligen;2;BE;245;Emmental;1;13;136
+402;Alchenstorf;2;BE;245;Emmental;3;32;325
+403;B�riswil;2;BE;246;Bern-Mittelland;2;22;227
+404;Burgdorf;2;BE;245;Emmental;1;13;137
+405;Ersigen;2;BE;245;Emmental;1;13;137
+406;Hasle bei Burgdorf;2;BE;245;Emmental;2;22;227
+407;Heimiswil;2;BE;245;Emmental;3;23;235
+408;Hellsau;2;BE;245;Emmental;3;32;326
+409;Hindelbank;2;BE;245;Emmental;2;22;227
+410;H�chstetten;2;BE;245;Emmental;3;32;325
+411;Kernenried;2;BE;245;Emmental;3;23;237
+412;Kirchberg (BE);2;BE;245;Emmental;1;13;136
+413;Koppigen;2;BE;245;Emmental;2;22;227
+414;Krauchthal;2;BE;245;Emmental;3;23;237
+415;Lyssach;2;BE;245;Emmental;2;22;227
+418;Oberburg;2;BE;245;Emmental;1;13;137
+420;R�dtligen-Alchenfl�h;2;BE;245;Emmental;1;13;136
+421;Rumendingen;2;BE;245;Emmental;3;32;327
+422;R�ti bei Lyssach;2;BE;245;Emmental;3;23;235
+423;Willadingen;2;BE;245;Emmental;3;32;325
+424;Wynigen;2;BE;245;Emmental;3;23;235
+431;Corg�mont;2;BE;241;Jura bernois;3;32;327
+432;Cormoret;2;BE;241;Jura bernois;3;32;327
+433;Cort�bert;2;BE;241;Jura bernois;3;32;327
+434;Courtelary;2;BE;241;Jura bernois;3;32;326
+435;La Ferri�re;2;BE;241;Jura bernois;3;23;236
+437;Mont-Tramelan;2;BE;241;Jura bernois;3;32;325
+438;Orvin;2;BE;241;Jura bernois;3;23;236
+441;Renan (BE);2;BE;241;Jura bernois;3;23;237
+442;Romont (BE);2;BE;241;Jura bernois;3;23;235
+443;Saint-Imier;2;BE;241;Jura bernois;2;31;316
+444;Sonceboz-Sombeval;2;BE;241;Jura bernois;3;32;326
+445;Sonvilier;2;BE;241;Jura bernois;3;33;335
+446;Tramelan;2;BE;241;Jura bernois;2;31;316
+448;Villeret;2;BE;241;Jura bernois;2;31;316
+449;Sauge;2;BE;241;Jura bernois;3;23;237
+450;P�ry-La Heutte;2;BE;241;Jura bernois;3;23;236
+491;Br�ttelen;2;BE;243;Seeland;3;32;325
+492;Erlach;2;BE;243;Seeland;2;22;227
+493;Finsterhennen;2;BE;243;Seeland;3;32;325
+494;Gals;2;BE;243;Seeland;2;22;227
+495;Gampelen;2;BE;243;Seeland;2;22;227
+496;Ins;2;BE;243;Seeland;2;31;317
+497;L�scherz;2;BE;243;Seeland;3;32;327
+498;M�ntschemier;2;BE;243;Seeland;3;32;327
+499;Siselen;2;BE;243;Seeland;3;32;327
+500;Treiten;2;BE;243;Seeland;3;32;325
+501;Tschugg;2;BE;243;Seeland;3;32;327
+502;Vinelz;2;BE;243;Seeland;3;32;327
+533;B�tterkinden;2;BE;245;Emmental;2;21;216
+535;Deisswil bei M�nchenbuchsee;2;BE;246;Bern-Mittelland;3;23;236
+538;Fraubrunnen;2;BE;246;Bern-Mittelland;2;22;227
+540;Jegenstorf;2;BE;246;Bern-Mittelland;2;21;217
+541;Iffwil;2;BE;246;Bern-Mittelland;3;23;235
+543;Mattstetten;2;BE;246;Bern-Mittelland;2;22;227
+544;Moosseedorf;2;BE;246;Bern-Mittelland;1;11;112
+546;M�nchenbuchsee;2;BE;246;Bern-Mittelland;2;21;217
+551;Urtenen-Sch�nb�hl;2;BE;246;Bern-Mittelland;1;11;112
+552;Utzenstorf;2;BE;245;Emmental;2;21;216
+553;Wiggiswil;2;BE;246;Bern-Mittelland;3;23;235
+554;Wiler bei Utzenstorf;2;BE;245;Emmental;3;23;236
+556;Zielebach;2;BE;245;Emmental;2;22;227
+557;Zuzwil (BE);2;BE;246;Bern-Mittelland;3;23;235
+561;Adelboden;2;BE;249;Frutigen-Niedersimmental;2;31;314
+562;Aeschi bei Spiez;2;BE;249;Frutigen-Niedersimmental;3;32;327
+563;Frutigen;2;BE;249;Frutigen-Niedersimmental;2;31;316
+564;Kandergrund;2;BE;249;Frutigen-Niedersimmental;3;33;335
+565;Kandersteg;2;BE;249;Frutigen-Niedersimmental;3;33;334
+566;Krattigen;2;BE;249;Frutigen-Niedersimmental;2;22;227
+567;Reichenbach im Kandertal;2;BE;249;Frutigen-Niedersimmental;3;32;326
+571;Beatenberg;2;BE;250;Interlaken-Oberhasli;3;23;237
+572;B�nigen;2;BE;250;Interlaken-Oberhasli;1;13;136
+573;Brienz (BE);2;BE;250;Interlaken-Oberhasli;2;31;314
+574;Brienzwiler;2;BE;250;Interlaken-Oberhasli;3;33;338
+575;D�rligen;2;BE;250;Interlaken-Oberhasli;3;23;237
+576;Grindelwald;2;BE;250;Interlaken-Oberhasli;2;31;314
+577;Gsteigwiler;2;BE;250;Interlaken-Oberhasli;3;32;327
+578;G�ndlischwand;2;BE;250;Interlaken-Oberhasli;3;33;338
+579;Habkern;2;BE;250;Interlaken-Oberhasli;3;23;235
+580;Hofstetten bei Brienz;2;BE;250;Interlaken-Oberhasli;3;33;338
+581;Interlaken;2;BE;250;Interlaken-Oberhasli;1;13;134
+582;Iseltwald;2;BE;250;Interlaken-Oberhasli;3;23;237
+584;Lauterbrunnen;2;BE;250;Interlaken-Oberhasli;3;33;334
+585;Leissigen;2;BE;250;Interlaken-Oberhasli;3;23;237
+586;L�tschental;2;BE;250;Interlaken-Oberhasli;3;33;338
+587;Matten bei Interlaken;2;BE;250;Interlaken-Oberhasli;1;13;134
+588;Niederried bei Interlaken;2;BE;250;Interlaken-Oberhasli;3;23;237
+589;Oberried am Brienzersee;2;BE;250;Interlaken-Oberhasli;3;33;338
+590;Ringgenberg (BE);2;BE;250;Interlaken-Oberhasli;2;22;227
+591;Saxeten;2;BE;250;Interlaken-Oberhasli;3;23;235
+592;Schwanden bei Brienz;2;BE;250;Interlaken-Oberhasli;2;31;317
+593;Unterseen;2;BE;250;Interlaken-Oberhasli;1;13;134
+594;Wilderswil;2;BE;250;Interlaken-Oberhasli;2;22;226
+602;Arni (BE);2;BE;246;Bern-Mittelland;3;32;325
+603;Biglen;2;BE;246;Bern-Mittelland;2;22;226
+605;Bowil;2;BE;246;Bern-Mittelland;3;32;326
+606;Brenzikofen;2;BE;246;Bern-Mittelland;3;23;237
+607;Freimettigen;2;BE;246;Bern-Mittelland;2;21;217
+608;Grossh�chstetten;2;BE;246;Bern-Mittelland;2;22;227
+609;H�utligen;2;BE;246;Bern-Mittelland;3;23;235
+610;Herbligen;2;BE;246;Bern-Mittelland;3;23;237
+611;Kiesen;2;BE;246;Bern-Mittelland;2;22;227
+612;Konolfingen;2;BE;246;Bern-Mittelland;2;21;216
+613;Landiswil;2;BE;246;Bern-Mittelland;3;32;325
+614;Linden;2;BE;246;Bern-Mittelland;3;32;326
+615;Mirchel;2;BE;246;Bern-Mittelland;3;32;325
+616;M�nsingen;2;BE;246;Bern-Mittelland;1;11;113
+617;Niederh�nigen;2;BE;246;Bern-Mittelland;2;22;226
+619;Oberdiessbach;2;BE;246;Bern-Mittelland;2;22;226
+620;Oberthal;2;BE;246;Bern-Mittelland;3;32;325
+622;Oppligen;2;BE;246;Bern-Mittelland;2;22;226
+623;Rubigen;2;BE;246;Bern-Mittelland;2;22;226
+626;Walkringen;2;BE;246;Bern-Mittelland;3;32;327
+627;Worb;2;BE;246;Bern-Mittelland;2;21;217
+628;Z�ziwil;2;BE;246;Bern-Mittelland;2;22;226
+629;Oberh�nigen;2;BE;246;Bern-Mittelland;3;32;325
+630;Allmendingen;2;BE;246;Bern-Mittelland;3;23;237
+632;Wichtrach;2;BE;246;Bern-Mittelland;2;22;226
+662;Ferenbalm;2;BE;246;Bern-Mittelland;3;23;236
+663;Frauenkappelen;2;BE;246;Bern-Mittelland;2;22;226
+665;Gurbr�;2;BE;246;Bern-Mittelland;3;32;325
+666;Kriechenwil;2;BE;246;Bern-Mittelland;3;32;325
+667;Laupen;2;BE;246;Bern-Mittelland;2;21;217
+668;M�hleberg;2;BE;246;Bern-Mittelland;3;23;236
+669;M�nchenwiler;2;BE;246;Bern-Mittelland;1;13;136
+670;Neuenegg;2;BE;246;Bern-Mittelland;2;21;216
+671;Wileroltigen;2;BE;246;Bern-Mittelland;3;32;325
+681;Belprahon;2;BE;241;Jura bernois;3;32;326
+683;Champoz;2;BE;241;Jura bernois;3;32;325
+687;Corcelles (BE);2;BE;241;Jura bernois;3;32;325
+690;Court;2;BE;241;Jura bernois;3;32;326
+691;Cr�mines;2;BE;241;Jura bernois;3;32;326
+692;Eschert;2;BE;241;Jura bernois;2;31;316
+694;Grandval;2;BE;241;Jura bernois;3;32;327
+696;Loveresse;2;BE;241;Jura bernois;3;32;326
+700;Moutier;2;BE;241;Jura bernois;2;31;316
+701;Perrefitte;2;BE;241;Jura bernois;3;32;327
+703;Reconvilier;2;BE;241;Jura bernois;3;32;326
+704;Roches (BE);2;BE;241;Jura bernois;3;32;325
+706;Saicourt;2;BE;241;Jura bernois;3;32;327
+707;Saules (BE);2;BE;241;Jura bernois;3;32;325
+708;Schelten;2;BE;241;Jura bernois;3;32;325
+709;Seehof;2;BE;241;Jura bernois;3;33;335
+711;Sorvilier;2;BE;241;Jura bernois;3;32;327
+713;Tavannes;2;BE;241;Jura bernois;3;32;326
+715;Reb�velier;2;BE;241;Jura bernois;3;32;325
+716;Petit-Val;2;BE;241;Jura bernois;3;32;325
+717;Valbirse;2;BE;241;Jura bernois;2;31;316
+723;La Neuveville;2;BE;241;Jura bernois;2;21;217
+724;Nods;2;BE;241;Jura bernois;3;23;236
+726;Plateau de Diesse;2;BE;241;Jura bernois;3;23;237
+731;Aegerten;2;BE;242;Biel/Bienne;1;12;123
+732;Bellmund;2;BE;242;Biel/Bienne;1;12;123
+733;Br�gg;2;BE;242;Biel/Bienne;1;12;122
+734;B�hl;2;BE;243;Seeland;3;23;235
+735;Epsach;2;BE;243;Seeland;3;23;235
+736;Hagneck;2;BE;243;Seeland;2;22;227
+737;Hermrigen;2;BE;243;Seeland;3;23;237
+738;Jens;2;BE;243;Seeland;2;22;226
+739;Ipsach;2;BE;242;Biel/Bienne;1;12;123
+740;Ligerz;2;BE;242;Biel/Bienne;3;23;235
+741;Merzligen;2;BE;243;Seeland;3;23;237
+742;M�rigen;2;BE;242;Biel/Bienne;2;22;227
+743;Nidau;2;BE;242;Biel/Bienne;1;12;123
+744;Orpund;2;BE;242;Biel/Bienne;2;22;226
+745;Port;2;BE;242;Biel/Bienne;1;12;123
+746;Safnern;2;BE;242;Biel/Bienne;2;22;226
+747;Scheuren;2;BE;242;Biel/Bienne;2;22;227
+748;Schwadernau;2;BE;242;Biel/Bienne;1;12;123
+749;Studen (BE);2;BE;243;Seeland;1;12;122
+750;Sutz-Lattrigen;2;BE;242;Biel/Bienne;2;22;227
+751;T�uffelen;2;BE;243;Seeland;2;22;226
+754;Walperswil;2;BE;243;Seeland;3;23;235
+755;Worben;2;BE;243;Seeland;1;12;123
+756;Twann-T�scherz;2;BE;242;Biel/Bienne;3;23;237
+761;D�rstetten;2;BE;249;Frutigen-Niedersimmental;3;33;335
+762;Diemtigen;2;BE;249;Frutigen-Niedersimmental;3;33;338
+763;Erlenbach im Simmental;2;BE;249;Frutigen-Niedersimmental;3;32;327
+766;Oberwil im Simmental;2;BE;249;Frutigen-Niedersimmental;3;33;335
+767;Reutigen;2;BE;247;Thun;3;23;237
+768;Spiez;2;BE;249;Frutigen-Niedersimmental;1;13;134
+769;Wimmis;2;BE;249;Frutigen-Niedersimmental;2;22;226
+770;Stocken-H�fen;2;BE;247;Thun;3;23;235
+782;Guttannen;2;BE;250;Interlaken-Oberhasli;3;33;338
+783;Hasliberg;2;BE;250;Interlaken-Oberhasli;3;33;334
+784;Innertkirchen;2;BE;250;Interlaken-Oberhasli;3;33;338
+785;Meiringen;2;BE;250;Interlaken-Oberhasli;2;31;314
+786;Schattenhalb;2;BE;250;Interlaken-Oberhasli;2;31;317
+791;Boltigen;2;BE;248;Obersimmental-Saanen;3;33;335
+792;Lenk;2;BE;248;Obersimmental-Saanen;3;33;334
+793;St. Stephan;2;BE;248;Obersimmental-Saanen;3;33;335
+794;Zweisimmen;2;BE;248;Obersimmental-Saanen;3;33;338
+841;Gsteig;2;BE;248;Obersimmental-Saanen;3;33;338
+842;Lauenen;2;BE;248;Obersimmental-Saanen;3;33;335
+843;Saanen;2;BE;248;Obersimmental-Saanen;2;31;314
+852;Guggisberg;2;BE;246;Bern-Mittelland;3;33;335
+853;R�schegg;2;BE;246;Bern-Mittelland;3;33;338
+855;Schwarzenburg;2;BE;246;Bern-Mittelland;2;22;226
+861;Belp;2;BE;246;Bern-Mittelland;2;21;217
+863;Burgistein;2;BE;247;Thun;3;23;236
+866;Gerzensee;2;BE;246;Bern-Mittelland;3;23;237
+867;Gurzelen;2;BE;247;Thun;2;22;227
+868;Jaberg;2;BE;246;Bern-Mittelland;2;22;226
+869;Kaufdorf;2;BE;246;Bern-Mittelland;2;22;226
+870;Kehrsatz;2;BE;246;Bern-Mittelland;1;11;113
+872;Kirchdorf (BE);2;BE;246;Bern-Mittelland;3;23;235
+877;Niedermuhlern;2;BE;246;Bern-Mittelland;3;23;235
+879;Riggisberg;2;BE;246;Bern-Mittelland;2;31;317
+880;R�eggisberg;2;BE;246;Bern-Mittelland;3;33;335
+883;Seftigen;2;BE;247;Thun;2;22;226
+884;Toffen;2;BE;246;Bern-Mittelland;2;22;227
+885;Uttigen;2;BE;247;Thun;2;22;226
+886;Wattenwil;2;BE;247;Thun;2;22;227
+888;Wald (BE);2;BE;246;Bern-Mittelland;3;23;237
+889;Thurnen;2;BE;246;Bern-Mittelland;2;22;227
+901;Eggiwil;2;BE;245;Emmental;3;33;335
+902;Langnau im Emmental;2;BE;245;Emmental;2;31;317
+903;Lauperswil;2;BE;245;Emmental;3;32;326
+904;R�thenbach im Emmental;2;BE;245;Emmental;3;33;335
+905;R�derswil;2;BE;245;Emmental;3;32;327
+906;Schangnau;2;BE;245;Emmental;3;33;335
+907;Signau;2;BE;245;Emmental;3;32;326
+908;Trub;2;BE;245;Emmental;3;33;335
+909;Trubschachen;2;BE;245;Emmental;3;33;338
+921;Amsoldingen;2;BE;247;Thun;3;23;235
+922;Blumenstein;2;BE;247;Thun;2;22;226
+923;Buchholterberg;2;BE;247;Thun;3;23;235
+924;Eriz;2;BE;247;Thun;3;23;235
+925;Fahrni;2;BE;247;Thun;3;23;235
+927;Heiligenschwendi;2;BE;247;Thun;3;23;237
+928;Heimberg;2;BE;247;Thun;1;12;123
+929;Hilterfingen;2;BE;247;Thun;1;12;123
+931;Homberg;2;BE;247;Thun;3;23;235
+932;Horrenbach-Buchen;2;BE;247;Thun;3;23;235
+934;Oberhofen am Thunersee;2;BE;247;Thun;1;12;123
+935;Oberlangenegg;2;BE;247;Thun;3;23;235
+936;Pohlern;2;BE;247;Thun;3;23;235
+938;Sigriswil;2;BE;247;Thun;2;22;227
+939;Steffisburg;2;BE;247;Thun;1;12;123
+940;Teuffenthal (BE);2;BE;247;Thun;3;23;235
+941;Thierachern;2;BE;247;Thun;2;22;227
+942;Thun;2;BE;247;Thun;1;12;121
+943;Uebeschi;2;BE;247;Thun;3;23;235
+944;Uetendorf;2;BE;247;Thun;2;21;216
+945;Unterlangenegg;2;BE;247;Thun;3;23;237
+946;Wachseldorn;2;BE;247;Thun;3;33;335
+948;Forst-L�ngenb�hl;2;BE;247;Thun;2;22;227
+951;Affoltern im Emmental;2;BE;245;Emmental;3;32;326
+952;D�rrenroth;2;BE;245;Emmental;3;32;325
+953;Eriswil;2;BE;244;Oberaargau;3;32;325
+954;Huttwil;2;BE;244;Oberaargau;2;31;316
+955;L�tzelfl�h;2;BE;245;Emmental;3;32;326
+956;R�egsau;2;BE;245;Emmental;2;22;226
+957;Sumiswald;2;BE;245;Emmental;3;32;326
+958;Trachselwald;2;BE;245;Emmental;3;33;335
+959;Walterswil (BE);2;BE;244;Oberaargau;3;32;325
+960;Wyssachen;2;BE;244;Oberaargau;3;32;326
+971;Attiswil;2;BE;244;Oberaargau;3;32;327
+972;Berken;2;BE;244;Oberaargau;3;32;327
+973;Bettenhausen;2;BE;244;Oberaargau;3;32;325
+975;Farnern;2;BE;244;Oberaargau;3;32;327
+976;Graben;2;BE;244;Oberaargau;3;32;325
+977;Heimenhausen;2;BE;244;Oberaargau;3;32;326
+979;Herzogenbuchsee;2;BE;244;Oberaargau;1;13;136
+980;Inkwil;2;BE;244;Oberaargau;3;32;326
+981;Niederbipp;2;BE;244;Oberaargau;1;13;137
+982;Nieder�nz;2;BE;244;Oberaargau;1;13;136
+983;Oberbipp;2;BE;244;Oberaargau;3;32;326
+985;Ochlenberg;2;BE;244;Oberaargau;3;32;325
+987;Rumisberg;2;BE;244;Oberaargau;3;32;325
+988;Seeberg;2;BE;244;Oberaargau;3;32;327
+989;Th�rigen;2;BE;244;Oberaargau;3;32;326
+990;Walliswil bei Niederbipp;2;BE;244;Oberaargau;3;32;326
+991;Walliswil bei Wangen;2;BE;244;Oberaargau;3;32;327
+992;Wangen an der Aare;2;BE;244;Oberaargau;3;32;327
+995;Wiedlisbach;2;BE;244;Oberaargau;3;32;327
+1001;Doppleschwand;3;LU;316;Entlebuch;3;32;325
+1002;Entlebuch;3;LU;316;Entlebuch;3;32;327
+1004;Fl�hli;3;LU;316;Entlebuch;3;33;338
+1005;Hasle (LU);3;LU;316;Entlebuch;3;33;338
+1007;Romoos;3;LU;316;Entlebuch;3;33;335
+1008;Sch�pfheim;3;LU;316;Entlebuch;2;31;317
+1009;Werthenstein;3;LU;316;Entlebuch;3;32;326
+1010;Escholzmatt-Marbach;3;LU;316;Entlebuch;3;33;338
+1021;Aesch (LU);3;LU;313;Hochdorf;3;32;326
+1023;Ballwil;3;LU;313;Hochdorf;2;22;226
+1024;Emmen;3;LU;313;Hochdorf;1;12;122
+1025;Ermensee;3;LU;313;Hochdorf;2;31;316
+1026;Eschenbach (LU);3;LU;313;Hochdorf;2;22;226
+1030;Hitzkirch;3;LU;313;Hochdorf;2;31;316
+1031;Hochdorf;3;LU;313;Hochdorf;1;13;136
+1032;Hohenrain;3;LU;313;Hochdorf;3;32;327
+1033;Inwil;3;LU;313;Hochdorf;2;22;226
+1037;Rain;3;LU;313;Hochdorf;2;22;227
+1039;R�merswil;3;LU;313;Hochdorf;3;32;325
+1040;Rothenburg;3;LU;313;Hochdorf;1;12;122
+1041;Schongau;3;LU;313;Hochdorf;3;32;326
+1051;Adligenswil;3;LU;312;Luzern-Land;1;12;123
+1052;Buchrain;3;LU;312;Luzern-Land;1;12;123
+1053;Dierikon;3;LU;312;Luzern-Land;1;12;122
+1054;Ebikon;3;LU;312;Luzern-Land;1;12;123
+1055;Gisikon;3;LU;312;Luzern-Land;2;21;216
+1056;Greppen;3;LU;312;Luzern-Land;2;22;227
+1057;Honau;3;LU;312;Luzern-Land;2;21;217
+1058;Horw;3;LU;312;Luzern-Land;1;12;123
+1059;Kriens;3;LU;312;Luzern-Land;1;12;123
+1061;Luzern;3;LU;311;Luzern-Stadt;1;12;121
+1062;Malters;3;LU;312;Luzern-Land;2;21;216
+1063;Meggen;3;LU;312;Luzern-Land;1;12;123
+1064;Meierskappel;3;LU;312;Luzern-Land;2;22;226
+1065;Root;3;LU;312;Luzern-Land;2;21;216
+1066;Schwarzenberg;3;LU;312;Luzern-Land;3;23;237
+1067;Udligenswil;3;LU;312;Luzern-Land;2;22;227
+1068;Vitznau;3;LU;312;Luzern-Land;3;32;327
+1069;Weggis;3;LU;312;Luzern-Land;2;21;217
+1081;Berom�nster;3;LU;314;Sursee;2;31;316
+1082;B�ron;3;LU;314;Sursee;3;32;326
+1083;Buttisholz;3;LU;314;Sursee;2;31;316
+1084;Eich;3;LU;314;Sursee;3;32;327
+1085;Geuensee;3;LU;314;Sursee;3;32;326
+1086;Grosswangen;3;LU;314;Sursee;2;31;316
+1088;Hildisrieden;3;LU;314;Sursee;3;32;327
+1089;Knutwil;3;LU;314;Sursee;3;32;326
+1091;Mauensee;3;LU;314;Sursee;3;32;327
+1093;Neuenkirch;3;LU;314;Sursee;2;22;227
+1094;Nottwil;3;LU;314;Sursee;3;32;327
+1095;Oberkirch;3;LU;314;Sursee;1;13;134
+1097;Rickenbach (LU);3;LU;314;Sursee;3;32;326
+1098;Ruswil;3;LU;314;Sursee;2;31;316
+1099;Schenkon;3;LU;314;Sursee;1;13;137
+1100;Schlierbach;3;LU;314;Sursee;3;32;325
+1102;Sempach;3;LU;314;Sursee;3;32;326
+1103;Sursee;3;LU;314;Sursee;1;13;137
+1104;Triengen;3;LU;314;Sursee;2;31;316
+1107;Wolhusen;3;LU;316;Entlebuch;2;31;317
+1121;Alberswil;3;LU;315;Willisau;3;32;327
+1122;Altb�ron;3;LU;315;Willisau;3;32;326
+1123;Altishofen;3;LU;315;Willisau;2;31;317
+1125;Dagmersellen;3;LU;315;Willisau;3;32;326
+1127;Egolzwil;3;LU;315;Willisau;3;32;327
+1128;Ettiswil;3;LU;315;Willisau;3;32;327
+1129;Fischbach;3;LU;315;Willisau;3;32;325
+1131;Grossdietwil;3;LU;315;Willisau;3;32;326
+1132;Hergiswil bei Willisau;3;LU;315;Willisau;3;32;325
+1135;Luthern;3;LU;315;Willisau;3;32;325
+1136;Menznau;3;LU;315;Willisau;3;32;326
+1137;Nebikon;3;LU;315;Willisau;2;31;316
+1139;Pfaffnau;3;LU;315;Willisau;3;32;327
+1140;Reiden;3;LU;315;Willisau;3;32;326
+1142;Roggliswil;3;LU;315;Willisau;3;32;326
+1143;Sch�tz;3;LU;315;Willisau;2;31;316
+1145;Ufhusen;3;LU;315;Willisau;3;32;325
+1146;Wauwil;3;LU;315;Willisau;3;32;325
+1147;Wikon;3;LU;315;Willisau;1;12;122
+1150;Zell (LU);3;LU;315;Willisau;3;32;326
+1151;Willisau;3;LU;315;Willisau;2;31;317
+1201;Altdorf (UR);4;UR;400;Kt. Uri;1;13;137
+1202;Andermatt;4;UR;400;Kt. Uri;2;31;314
+1203;Attinghausen;4;UR;400;Kt. Uri;1;13;137
+1205;B�rglen (UR);4;UR;400;Kt. Uri;1;13;137
+1206;Erstfeld;4;UR;400;Kt. Uri;2;22;227
+1207;Fl�elen;4;UR;400;Kt. Uri;1;13;136
+1208;G�schenen;4;UR;400;Kt. Uri;3;33;338
+1209;Gurtnellen;4;UR;400;Kt. Uri;3;33;338
+1210;Hospental;4;UR;400;Kt. Uri;3;33;335
+1211;Isenthal;4;UR;400;Kt. Uri;3;33;335
+1212;Realp;4;UR;400;Kt. Uri;3;33;338
+1213;Schattdorf;4;UR;400;Kt. Uri;1;13;136
+1214;Seedorf (UR);4;UR;400;Kt. Uri;2;22;226
+1215;Seelisberg;4;UR;400;Kt. Uri;3;32;327
+1216;Silenen;4;UR;400;Kt. Uri;3;23;237
+1217;Sisikon;4;UR;400;Kt. Uri;3;23;237
+1218;Spiringen;4;UR;400;Kt. Uri;3;23;235
+1219;Untersch�chen;4;UR;400;Kt. Uri;3;23;235
+1220;Wassen;4;UR;400;Kt. Uri;3;33;338
+1301;Einsiedeln;5;SZ;501;Einsiedeln;1;13;137
+1311;Gersau;5;SZ;502;Gersau;3;32;327
+1321;Feusisberg;5;SZ;503;H�fe;2;22;227
+1322;Freienbach;5;SZ;503;H�fe;1;11;112
+1323;Wollerau;5;SZ;503;H�fe;1;11;112
+1331;K�ssnacht (SZ);5;SZ;504;K�ssnacht (SZ);1;13;136
+1341;Altendorf;5;SZ;505;March;1;13;137
+1342;Galgenen;5;SZ;505;March;2;22;227
+1343;Innerthal;5;SZ;505;March;3;23;237
+1344;Lachen;5;SZ;505;March;1;13;137
+1345;Reichenburg;5;SZ;505;March;2;22;226
+1346;Sch�belbach;5;SZ;505;March;1;13;136
+1347;Tuggen;5;SZ;505;March;2;22;226
+1348;Vorderthal;5;SZ;505;March;3;23;235
+1349;Wangen (SZ);5;SZ;505;March;1;13;136
+1361;Alpthal;5;SZ;506;Schwyz;3;32;327
+1362;Arth;5;SZ;506;Schwyz;1;13;136
+1363;Illgau;5;SZ;506;Schwyz;3;32;325
+1364;Ingenbohl;5;SZ;506;Schwyz;2;31;314
+1365;Lauerz;5;SZ;506;Schwyz;3;32;327
+1366;Morschach;5;SZ;506;Schwyz;3;32;327
+1367;Muotathal;5;SZ;506;Schwyz;2;31;316
+1368;Oberiberg;5;SZ;506;Schwyz;3;32;327
+1369;Riemenstalden;5;SZ;506;Schwyz;3;32;325
+1370;Rothenthurm;5;SZ;506;Schwyz;3;32;326
+1371;Sattel;5;SZ;506;Schwyz;3;32;327
+1372;Schwyz;5;SZ;506;Schwyz;1;13;137
+1373;Steinen;5;SZ;506;Schwyz;3;32;326
+1374;Steinerberg;5;SZ;506;Schwyz;3;32;327
+1375;Unteriberg;5;SZ;506;Schwyz;3;32;326
+1401;Alpnach;6;OW;600;Kt. Obwalden;3;32;326
+1402;Engelberg;6;OW;600;Kt. Obwalden;2;31;314
+1403;Giswil;6;OW;600;Kt. Obwalden;3;32;327
+1404;Kerns;6;OW;600;Kt. Obwalden;3;32;326
+1405;Lungern;6;OW;600;Kt. Obwalden;3;32;326
+1406;Sachseln;6;OW;600;Kt. Obwalden;2;31;314
+1407;Sarnen;6;OW;600;Kt. Obwalden;1;13;134
+1501;Beckenried;7;NW;700;Kt. Nidwalden;3;32;327
+1502;Buochs;7;NW;700;Kt. Nidwalden;3;32;327
+1503;Dallenwil;7;NW;700;Kt. Nidwalden;3;32;326
+1504;Emmetten;7;NW;700;Kt. Nidwalden;3;32;327
+1505;Ennetb�rgen;7;NW;700;Kt. Nidwalden;3;32;327
+1506;Ennetmoos;7;NW;700;Kt. Nidwalden;3;32;326
+1507;Hergiswil (NW);7;NW;700;Kt. Nidwalden;2;21;217
+1508;Oberdorf (NW);7;NW;700;Kt. Nidwalden;1;13;136
+1509;Stans;7;NW;700;Kt. Nidwalden;1;13;136
+1510;Stansstad;7;NW;700;Kt. Nidwalden;1;13;134
+1511;Wolfenschiessen;7;NW;700;Kt. Nidwalden;3;32;327
+1630;Glarus Nord;8;GL;800;Kt. Glarus;1;13;136
+1631;Glarus S�d;8;GL;800;Kt. Glarus;3;33;334
+1632;Glarus;8;GL;800;Kt. Glarus;1;13;137
+1701;Baar;9;ZG;900;Kt. Zug;1;12;122
+1702;Cham;9;ZG;900;Kt. Zug;1;12;122
+1703;H�nenberg;9;ZG;900;Kt. Zug;1;12;122
+1704;Menzingen;9;ZG;900;Kt. Zug;2;22;227
+1705;Neuheim;9;ZG;900;Kt. Zug;2;22;226
+1706;Ober�geri;9;ZG;900;Kt. Zug;1;12;123
+1707;Risch;9;ZG;900;Kt. Zug;1;12;122
+1708;Steinhausen;9;ZG;900;Kt. Zug;1;12;122
+1709;Unter�geri;9;ZG;900;Kt. Zug;1;12;123
+1710;Walchwil;9;ZG;900;Kt. Zug;2;22;227
+1711;Zug;9;ZG;900;Kt. Zug;1;12;121
+2008;Ch�tillon (FR);10;FR;1001;La Broye;3;32;327
+2011;Cugy (FR);10;FR;1001;La Broye;3;32;326
+2016;F�tigny;10;FR;1001;La Broye;3;32;327
+2022;Gletterens;10;FR;1001;La Broye;3;32;327
+2025;Lully (FR);10;FR;1001;La Broye;3;32;327
+2027;M�ni�res;10;FR;1001;La Broye;3;32;327
+2029;Montagny (FR);10;FR;1001;La Broye;3;32;327
+2035;Nuvilly;10;FR;1001;La Broye;3;32;327
+2038;Pr�vondavaux;10;FR;1001;La Broye;3;32;325
+2041;Saint-Aubin (FR);10;FR;1001;La Broye;3;32;327
+2043;S�vaz;10;FR;1001;La Broye;3;32;327
+2044;Surpierre;10;FR;1001;La Broye;3;32;325
+2045;Vallon;10;FR;1001;La Broye;3;32;325
+2050;Les Montets;10;FR;1001;La Broye;3;32;326
+2051;Delley-Portalban;10;FR;1001;La Broye;3;32;327
+2053;Belmont-Broye;10;FR;1001;La Broye;3;32;326
+2054;Estavayer;10;FR;1001;La Broye;2;31;316
+2055;Cheyres-Ch�bles;10;FR;1001;La Broye;3;32;327
+2061;Auboranges;10;FR;1002;La Gl�ne;3;23;235
+2063;Billens-Hennens;10;FR;1002;La Gl�ne;3;32;327
+2066;Chapelle (Gl�ne);10;FR;1002;La Gl�ne;3;32;327
+2067;Le Ch�telard;10;FR;1002;La Gl�ne;3;32;325
+2068;Ch�tonnaye;10;FR;1002;La Gl�ne;3;32;327
+2072;Ecublens (FR);10;FR;1002;La Gl�ne;3;23;235
+2079;Grangettes;10;FR;1002;La Gl�ne;3;32;325
+2086;Massonnens;10;FR;1002;La Gl�ne;3;32;325
+2087;M�zi�res (FR);10;FR;1002;La Gl�ne;3;32;326
+2089;Montet (Gl�ne);10;FR;1002;La Gl�ne;3;23;236
+2096;Romont (FR);10;FR;1002;La Gl�ne;2;31;316
+2097;Rue;10;FR;1002;La Gl�ne;3;23;235
+2099;Siviriez;10;FR;1002;La Gl�ne;3;32;327
+2102;Ursy;10;FR;1002;La Gl�ne;3;32;326
+2113;Vuisternens-devant-Romont;10;FR;1002;La Gl�ne;3;32;327
+2114;Villorsonnens;10;FR;1002;La Gl�ne;3;32;325
+2115;Torny;10;FR;1002;La Gl�ne;3;32;325
+2117;Villaz;10;FR;1002;La Gl�ne;3;32;326
+2121;Haut-Intyamon;10;FR;1003;La Gruy�re;3;33;338
+2122;Pont-en-Ogoz;10;FR;1003;La Gruy�re;3;23;237
+2123;Botterens;10;FR;1003;La Gruy�re;3;32;326
+2124;Broc;10;FR;1003;La Gruy�re;2;22;226
+2125;Bulle;10;FR;1003;La Gruy�re;1;13;136
+2128;Ch�tel-sur-Montsalvens;10;FR;1003;La Gruy�re;3;23;237
+2129;Corbi�res;10;FR;1003;La Gruy�re;3;23;236
+2130;Cr�suz;10;FR;1003;La Gruy�re;3;32;327
+2131;Echarlens;10;FR;1003;La Gruy�re;1;13;137
+2134;Grandvillard;10;FR;1003;La Gruy�re;3;32;327
+2135;Gruy�res;10;FR;1003;La Gruy�re;2;22;226
+2137;Hauteville;10;FR;1003;La Gruy�re;3;23;237
+2138;Jaun;10;FR;1003;La Gruy�re;3;33;338
+2140;Marsens;10;FR;1003;La Gruy�re;2;22;227
+2143;Morlon;10;FR;1003;La Gruy�re;1;13;137
+2145;Le P�quier (FR);10;FR;1003;La Gruy�re;3;23;236
+2147;Pont-la-Ville;10;FR;1003;La Gruy�re;3;23;235
+2148;Riaz;10;FR;1003;La Gruy�re;1;13;137
+2149;La Roche;10;FR;1003;La Gruy�re;3;32;326
+2152;S�les;10;FR;1003;La Gruy�re;3;23;236
+2153;Sorens;10;FR;1003;La Gruy�re;3;23;236
+2155;Vaulruz;10;FR;1003;La Gruy�re;3;23;237
+2160;Vuadens;10;FR;1003;La Gruy�re;1;13;136
+2162;Bas-Intyamon;10;FR;1003;La Gruy�re;3;23;236
+2163;Val-de-Charmey;10;FR;1003;La Gruy�re;3;32;327
+2173;Autigny;10;FR;1004;La Sarine;3;32;325
+2174;Avry;10;FR;1004;La Sarine;2;22;227
+2175;Belfaux;10;FR;1004;La Sarine;1;12;123
+2177;Ch�nens;10;FR;1004;La Sarine;3;32;326
+2183;Corminboeuf;10;FR;1004;La Sarine;1;12;123
+2186;Cottens (FR);10;FR;1004;La Sarine;3;23;237
+2194;Ferpicloz;10;FR;1004;La Sarine;2;22;226
+2196;Fribourg;10;FR;1004;La Sarine;1;12;121
+2197;Givisiez;10;FR;1004;La Sarine;1;12;122
+2198;Granges-Paccot;10;FR;1004;La Sarine;1;12;122
+2200;Grolley;10;FR;1004;La Sarine;2;22;227
+2206;Marly;10;FR;1004;La Sarine;2;21;217
+2208;Matran;10;FR;1004;La Sarine;2;22;226
+2211;Neyruz (FR);10;FR;1004;La Sarine;2;22;227
+2216;Pierrafortscha;10;FR;1004;La Sarine;3;23;235
+2217;Ponthaux;10;FR;1004;La Sarine;3;32;327
+2220;Le Mouret;10;FR;1004;La Sarine;2;22;227
+2226;Treyvaux;10;FR;1004;La Sarine;2;22;226
+2228;Villars-sur-Gl�ne;10;FR;1004;La Sarine;1;12;122
+2230;Villarsel-sur-Marly;10;FR;1004;La Sarine;3;23;235
+2233;Hauterive (FR);10;FR;1004;La Sarine;2;22;227
+2234;La Brillaz;10;FR;1004;La Sarine;3;32;327
+2235;La Sonnaz;10;FR;1004;La Sarine;2;22;227
+2236;Gibloux;10;FR;1004;La Sarine;2;22;226
+2237;Prez;10;FR;1004;La Sarine;3;32;327
+2238;Bois-d'Amont;10;FR;1004;La Sarine;3;32;327
+2250;Courgevaux;10;FR;1005;See / Lac;1;13;136
+2254;Courtepin;10;FR;1005;See / Lac;2;21;216
+2257;Cressier (FR);10;FR;1005;See / Lac;3;32;326
+2258;Fr�schels;10;FR;1005;See / Lac;3;23;235
+2261;Greng;10;FR;1005;See / Lac;3;32;325
+2262;Gurmels;10;FR;1005;See / Lac;3;32;327
+2265;Kerzers;10;FR;1005;See / Lac;2;21;217
+2266;Kleinb�singen;10;FR;1005;See / Lac;2;22;227
+2271;Meyriez;10;FR;1005;See / Lac;1;13;137
+2272;Misery-Courtion;10;FR;1005;See / Lac;3;32;327
+2274;Muntelier;10;FR;1005;See / Lac;1;13;136
+2275;Murten;10;FR;1005;See / Lac;1;13;137
+2276;Ried bei Kerzers;10;FR;1005;See / Lac;3;32;325
+2278;Ulmiz;10;FR;1005;See / Lac;3;23;237
+2284;Mont-Vully;10;FR;1005;See / Lac;2;22;227
+2292;Br�nisried;10;FR;1006;Sense;3;32;327
+2293;D�dingen;10;FR;1006;Sense;2;21;216
+2294;Giffers;10;FR;1006;Sense;2;22;227
+2295;B�singen;10;FR;1006;Sense;2;21;216
+2296;Heitenried;10;FR;1006;Sense;3;32;325
+2299;Plaffeien;10;FR;1006;Sense;2;31;316
+2300;Plasselb;10;FR;1006;Sense;3;32;327
+2301;Rechthalten;10;FR;1006;Sense;3;32;327
+2303;St. Silvester;10;FR;1006;Sense;3;32;325
+2304;St. Ursen;10;FR;1006;Sense;3;23;237
+2305;Schmitten (FR);10;FR;1006;Sense;2;22;226
+2306;Tafers;10;FR;1006;Sense;3;23;237
+2307;Tentlingen;10;FR;1006;Sense;2;22;227
+2308;Ueberstorf;10;FR;1006;Sense;3;23;237
+2309;W�nnewil-Flamatt;10;FR;1006;Sense;2;21;216
+2321;Attalens;10;FR;1007;La Veveyse;2;22;227
+2323;Bossonnens;10;FR;1007;La Veveyse;2;22;226
+2325;Ch�tel-Saint-Denis;10;FR;1007;La Veveyse;2;21;216
+2328;Granges (Veveyse);10;FR;1007;La Veveyse;3;23;236
+2333;Remaufens;10;FR;1007;La Veveyse;2;22;226
+2335;Saint-Martin (FR);10;FR;1007;La Veveyse;3;32;325
+2336;Semsales;10;FR;1007;La Veveyse;3;23;236
+2337;Le Flon;10;FR;1007;La Veveyse;3;32;325
+2338;La Verrerie;10;FR;1007;La Veveyse;3;32;325
+2401;Egerkingen;11;SO;1101;G�u;3;32;327
+2402;H�rkingen;11;SO;1101;G�u;2;22;227
+2403;Kestenholz;11;SO;1101;G�u;3;32;327
+2404;Neuendorf;11;SO;1101;G�u;3;32;327
+2405;Niederbuchsiten;11;SO;1101;G�u;3;32;326
+2406;Oberbuchsiten;11;SO;1101;G�u;3;32;327
+2407;Oensingen;11;SO;1101;G�u;1;13;136
+2408;Wolfwil;11;SO;1101;G�u;3;32;326
+2421;Aedermannsdorf;11;SO;1102;Thal;3;32;327
+2422;Balsthal;11;SO;1102;Thal;3;32;326
+2424;Herbetswil;11;SO;1102;Thal;3;32;325
+2425;Holderbank (SO);11;SO;1102;Thal;3;32;326
+2426;Laupersdorf;11;SO;1102;Thal;3;32;326
+2427;Matzendorf;11;SO;1102;Thal;3;32;326
+2428;M�mliswil-Ramiswil;11;SO;1102;Thal;3;32;326
+2430;Welschenrohr-G�nsbrunnen;11;SO;1102;Thal;3;32;326
+2445;Biezwil;11;SO;1103;Bucheggberg;3;23;236
+2455;L�terkofen-Ichertswil;11;SO;1103;Bucheggberg;2;22;227
+2457;Messen;11;SO;1103;Bucheggberg;3;23;237
+2461;Schnottwil;11;SO;1103;Bucheggberg;3;23;236
+2463;Unterramsern;11;SO;1103;Bucheggberg;3;23;235
+2464;L�sslingen-Nennigkofen;11;SO;1103;Bucheggberg;3;23;236
+2465;Buchegg;11;SO;1103;Bucheggberg;3;23;237
+2471;B�ttwil;11;SO;1104;Dorneck;2;22;226
+2472;B�ren (SO);11;SO;1104;Dorneck;3;23;237
+2473;Dornach;11;SO;1104;Dorneck;1;11;113
+2474;Gempen;11;SO;1104;Dorneck;3;23;237
+2475;Hochwald;11;SO;1104;Dorneck;3;23;237
+2476;Hofstetten-Fl�h;11;SO;1104;Dorneck;2;22;226
+2477;Metzerlen-Mariastein;11;SO;1104;Dorneck;3;23;237
+2478;Nuglar-St. Pantaleon;11;SO;1104;Dorneck;3;23;237
+2479;Rodersdorf;11;SO;1104;Dorneck;3;23;237
+2480;Seewen;11;SO;1104;Dorneck;3;23;237
+2481;Witterswil;11;SO;1104;Dorneck;2;22;227
+2491;Hauenstein-Ifenthal;11;SO;1105;G�sgen;3;23;235
+2492;Kienberg;11;SO;1105;G�sgen;3;23;235
+2493;Lostorf;11;SO;1105;G�sgen;2;22;227
+2495;Niederg�sgen;11;SO;1105;G�sgen;1;12;123
+2497;Oberg�sgen;11;SO;1105;G�sgen;1;12;123
+2499;St�sslingen;11;SO;1105;G�sgen;3;23;237
+2500;Trimbach;11;SO;1105;G�sgen;1;12;123
+2501;Winznau;11;SO;1105;G�sgen;1;12;123
+2502;Wisen (SO);11;SO;1105;G�sgen;3;23;237
+2503;Erlinsbach (SO);11;SO;1105;G�sgen;1;12;123
+2511;Aeschi (SO);11;SO;1106;Wasseramt;2;22;227
+2513;Biberist;11;SO;1106;Wasseramt;1;12;123
+2514;Bolken;11;SO;1106;Wasseramt;2;22;227
+2516;Deitingen;11;SO;1106;Wasseramt;2;22;226
+2517;Derendingen;11;SO;1106;Wasseramt;1;12;123
+2518;Etziken;11;SO;1106;Wasseramt;2;22;226
+2519;Gerlafingen;11;SO;1106;Wasseramt;1;12;123
+2520;Halten;11;SO;1106;Wasseramt;2;21;217
+2523;Horriwil;11;SO;1106;Wasseramt;2;22;226
+2524;H�niken;11;SO;1106;Wasseramt;2;22;227
+2525;Kriegstetten;11;SO;1106;Wasseramt;2;21;217
+2526;Lohn-Ammannsegg;11;SO;1106;Wasseramt;2;22;226
+2527;Luterbach;11;SO;1106;Wasseramt;2;22;227
+2528;Obergerlafingen;11;SO;1106;Wasseramt;2;21;216
+2529;Oekingen;11;SO;1106;Wasseramt;2;21;217
+2530;Recherswil;11;SO;1106;Wasseramt;2;21;216
+2532;Subingen;11;SO;1106;Wasseramt;1;12;122
+2534;Zuchwil;11;SO;1106;Wasseramt;1;12;122
+2535;Drei H�fe;11;SO;1106;Wasseramt;3;23;235
+2541;Balm bei G�nsberg;11;SO;1107;Lebern;3;23;237
+2542;Bellach;11;SO;1107;Lebern;1;12;123
+2543;Bettlach;11;SO;1107;Lebern;1;13;136
+2544;Feldbrunnen-St. Niklaus;11;SO;1107;Lebern;1;12;123
+2545;Flumenthal;11;SO;1107;Lebern;2;22;227
+2546;Grenchen;11;SO;1107;Lebern;1;13;136
+2547;G�nsberg;11;SO;1107;Lebern;3;23;236
+2548;Hubersdorf;11;SO;1107;Lebern;2;22;227
+2549;Kammersrohr;11;SO;1107;Lebern;3;32;325
+2550;Langendorf;11;SO;1107;Lebern;1;12;123
+2551;Lommiswil;11;SO;1107;Lebern;3;23;237
+2553;Oberdorf (SO);11;SO;1107;Lebern;1;12;123
+2554;Riedholz;11;SO;1107;Lebern;2;22;227
+2555;R�ttenen;11;SO;1107;Lebern;2;22;227
+2556;Selzach;11;SO;1107;Lebern;2;22;226
+2571;Boningen;11;SO;1108;Olten;3;23;236
+2572;D�niken;11;SO;1108;Olten;1;12;122
+2573;Dulliken;11;SO;1108;Olten;1;12;123
+2574;Eppenberg-W�schnau;11;SO;1108;Olten;1;12;122
+2575;Fulenbach;11;SO;1108;Olten;3;32;326
+2576;Gretzenbach;11;SO;1108;Olten;1;12;123
+2578;Gunzgen;11;SO;1108;Olten;3;32;327
+2579;H�gendorf;11;SO;1108;Olten;1;12;122
+2580;Kappel (SO);11;SO;1108;Olten;1;12;123
+2581;Olten;11;SO;1108;Olten;1;12;121
+2582;Rickenbach (SO);11;SO;1108;Olten;1;12;122
+2583;Sch�nenwerd;11;SO;1108;Olten;1;12;123
+2584;Starrkirch-Wil;11;SO;1108;Olten;1;12;123
+2585;Walterswil (SO);11;SO;1108;Olten;2;21;217
+2586;Wangen bei Olten;11;SO;1108;Olten;1;12;123
+2601;Solothurn;11;SO;1109;Solothurn;1;12;121
+2611;B�rschwil;11;SO;1110;Thierstein;3;23;235
+2612;Beinwil (SO);11;SO;1110;Thierstein;3;32;325
+2613;Breitenbach;11;SO;1110;Thierstein;2;21;217
+2614;B�sserach;11;SO;1110;Thierstein;2;21;216
+2615;Erschwil;11;SO;1110;Thierstein;3;23;236
+2616;Fehren;11;SO;1110;Thierstein;3;23;237
+2617;Grindel;11;SO;1110;Thierstein;3;23;237
+2618;Himmelried;11;SO;1110;Thierstein;3;23;237
+2619;Kleinl�tzel;11;SO;1110;Thierstein;3;23;236
+2620;Meltingen;11;SO;1110;Thierstein;2;22;227
+2621;Nunningen;11;SO;1110;Thierstein;2;22;226
+2622;Zullwil;11;SO;1110;Thierstein;2;22;226
+2701;Basel;12;BS;1200;Kt. Basel-Stadt;1;11;111
+2702;Bettingen;12;BS;1200;Kt. Basel-Stadt;1;11;113
+2703;Riehen;12;BS;1200;Kt. Basel-Stadt;1;11;113
+2761;Aesch (BL);13;BL;1301;Arlesheim;1;11;112
+2762;Allschwil;13;BL;1301;Arlesheim;1;11;112
+2763;Arlesheim;13;BL;1301;Arlesheim;1;11;112
+2764;Biel-Benken;13;BL;1301;Arlesheim;1;11;113
+2765;Binningen;13;BL;1301;Arlesheim;1;11;113
+2766;Birsfelden;13;BL;1301;Arlesheim;1;11;113
+2767;Bottmingen;13;BL;1301;Arlesheim;1;11;113
+2768;Ettingen;13;BL;1301;Arlesheim;2;21;216
+2769;M�nchenstein;13;BL;1301;Arlesheim;1;11;112
+2770;Muttenz;13;BL;1301;Arlesheim;1;11;112
+2771;Oberwil (BL);13;BL;1301;Arlesheim;1;11;113
+2772;Pfeffingen;13;BL;1301;Arlesheim;1;11;113
+2773;Reinach (BL);13;BL;1301;Arlesheim;1;11;112
+2774;Sch�nenbuch;13;BL;1301;Arlesheim;2;22;227
+2775;Therwil;13;BL;1301;Arlesheim;1;11;113
+2781;Blauen;13;BL;1302;Laufen;3;23;236
+2782;Brislach;13;BL;1302;Laufen;2;21;216
+2783;Burg im Leimental;13;BL;1302;Laufen;3;23;237
+2784;Dittingen;13;BL;1302;Laufen;2;22;226
+2785;Duggingen;13;BL;1302;Laufen;2;22;226
+2786;Grellingen;13;BL;1302;Laufen;2;22;226
+2787;Laufen;13;BL;1302;Laufen;2;21;216
+2788;Liesberg;13;BL;1302;Laufen;3;23;236
+2789;Nenzlingen;13;BL;1302;Laufen;3;23;236
+2790;Roggenburg;13;BL;1302;Laufen;3;32;325
+2791;R�schenz;13;BL;1302;Laufen;2;21;217
+2792;Wahlen;13;BL;1302;Laufen;2;22;227
+2793;Zwingen;13;BL;1302;Laufen;2;22;226
+2821;Arisdorf;13;BL;1303;Liestal;2;22;226
+2822;Augst;13;BL;1303;Liestal;1;11;112
+2823;Bubendorf;13;BL;1303;Liestal;2;21;216
+2824;Frenkendorf;13;BL;1303;Liestal;1;11;113
+2825;F�llinsdorf;13;BL;1303;Liestal;1;11;113
+2826;Giebenach;13;BL;1303;Liestal;3;23;236
+2827;Hersberg;13;BL;1303;Liestal;3;23;235
+2828;Lausen;13;BL;1303;Liestal;1;11;113
+2829;Liestal;13;BL;1303;Liestal;1;11;112
+2830;Lupsingen;13;BL;1303;Liestal;3;23;237
+2831;Pratteln;13;BL;1303;Liestal;1;11;112
+2832;Ramlinsburg;13;BL;1303;Liestal;3;23;237
+2833;Seltisberg;13;BL;1303;Liestal;2;22;227
+2834;Ziefen;13;BL;1303;Liestal;3;23;236
+2841;Anwil;13;BL;1304;Sissach;3;32;325
+2842;B�ckten;13;BL;1304;Sissach;2;21;216
+2843;Buckten;13;BL;1304;Sissach;3;23;236
+2844;Buus;13;BL;1304;Sissach;3;23;235
+2845;Diepflingen;13;BL;1304;Sissach;2;22;226
+2846;Gelterkinden;13;BL;1304;Sissach;2;21;217
+2847;H�felfingen;13;BL;1304;Sissach;3;32;327
+2848;Hemmiken;13;BL;1304;Sissach;3;23;235
+2849;Itingen;13;BL;1304;Sissach;1;11;113
+2850;K�nerkinden;13;BL;1304;Sissach;3;23;237
+2851;Kilchberg (BL);13;BL;1304;Sissach;3;32;325
+2852;L�ufelfingen;13;BL;1304;Sissach;3;23;236
+2853;Maisprach;13;BL;1304;Sissach;3;23;236
+2854;Nusshof;13;BL;1304;Sissach;3;23;235
+2855;Oltingen;13;BL;1304;Sissach;3;32;325
+2856;Ormalingen;13;BL;1304;Sissach;2;21;216
+2857;Rickenbach (BL);13;BL;1304;Sissach;3;23;235
+2858;Rothenfluh;13;BL;1304;Sissach;3;23;236
+2859;R�mlingen;13;BL;1304;Sissach;3;23;236
+2860;R�nenberg;13;BL;1304;Sissach;3;23;237
+2861;Sissach;13;BL;1304;Sissach;2;21;216
+2862;Tecknau;13;BL;1304;Sissach;3;23;236
+2863;Tenniken;13;BL;1304;Sissach;3;23;236
+2864;Th�rnen;13;BL;1304;Sissach;2;21;216
+2865;Wenslingen;13;BL;1304;Sissach;3;23;237
+2866;Wintersingen;13;BL;1304;Sissach;3;23;235
+2867;Wittinsburg;13;BL;1304;Sissach;3;23;236
+2868;Zeglingen;13;BL;1304;Sissach;3;32;325
+2869;Zunzgen;13;BL;1304;Sissach;2;21;217
+2881;Arboldswil;13;BL;1305;Waldenburg;3;23;237
+2882;Bennwil;13;BL;1305;Waldenburg;3;23;236
+2883;Bretzwil;13;BL;1305;Waldenburg;3;23;235
+2884;Diegten;13;BL;1305;Waldenburg;3;23;237
+2885;Eptingen;13;BL;1305;Waldenburg;3;32;327
+2886;H�lstein;13;BL;1305;Waldenburg;2;22;226
+2887;Lampenberg;13;BL;1305;Waldenburg;2;22;227
+2888;Langenbruck;13;BL;1305;Waldenburg;3;32;327
+2889;Lauwil;13;BL;1305;Waldenburg;3;23;236
+2890;Liedertswil;13;BL;1305;Waldenburg;3;23;236
+2891;Niederdorf;13;BL;1305;Waldenburg;2;22;227
+2892;Oberdorf (BL);13;BL;1305;Waldenburg;2;22;227
+2893;Reigoldswil;13;BL;1305;Waldenburg;3;23;237
+2894;Titterten;13;BL;1305;Waldenburg;3;23;237
+2895;Waldenburg;13;BL;1305;Waldenburg;2;22;226
+2901;G�chlingen;14;SH;1401;Oberklettgau;3;23;235
+2903;L�hningen;14;SH;1401;Oberklettgau;3;23;236
+2904;Neunkirch;14;SH;1401;Oberklettgau;2;22;226
+2914;B�ttenhardt;14;SH;1402;Reiat;3;23;235
+2915;D�rflingen;14;SH;1402;Reiat;3;23;236
+2917;Lohn (SH);14;SH;1402;Reiat;3;23;236
+2919;Stetten (SH);14;SH;1402;Reiat;3;23;237
+2920;Thayngen;14;SH;1402;Reiat;2;21;216
+2931;Bargen (SH);14;SH;1403;Schaffhausen;3;23;237
+2932;Beringen;14;SH;1403;Schaffhausen;2;21;216
+2933;Buchberg;14;SH;1403;Schaffhausen;3;23;237
+2936;Merishausen;14;SH;1403;Schaffhausen;3;23;237
+2937;Neuhausen am Rheinfall;14;SH;1403;Schaffhausen;1;12;122
+2938;R�dlingen;14;SH;1403;Schaffhausen;3;23;237
+2939;Schaffhausen;14;SH;1403;Schaffhausen;1;12;121
+2951;Beggingen;14;SH;1404;Schleitheim;3;23;235
+2952;Schleitheim;14;SH;1404;Schleitheim;3;23;236
+2953;Siblingen;14;SH;1404;Schleitheim;3;23;237
+2961;Buch (SH);14;SH;1405;Stein;3;32;327
+2962;Hemishofen;14;SH;1405;Stein;3;32;325
+2963;Ramsen;14;SH;1405;Stein;3;32;327
+2964;Stein am Rhein;14;SH;1405;Stein;2;31;316
+2971;Hallau;14;SH;1406;Unterklettgau;2;22;226
+2972;Oberhallau;14;SH;1406;Unterklettgau;3;23;235
+2973;Trasadingen;14;SH;1406;Unterklettgau;2;22;226
+2974;Wilchingen;14;SH;1406;Unterklettgau;3;23;236
+3001;Herisau;15;AR;1501;Hinterland;1;12;122
+3002;Hundwil;15;AR;1501;Hinterland;3;23;237
+3003;Sch�nengrund;15;AR;1501;Hinterland;3;23;237
+3004;Schwellbrunn;15;AR;1501;Hinterland;3;23;237
+3005;Stein (AR);15;AR;1501;Hinterland;3;23;237
+3006;Urn�sch;15;AR;1501;Hinterland;3;32;327
+3007;Waldstatt;15;AR;1501;Hinterland;2;22;226
+3021;B�hler;15;AR;1502;Mittelland;2;22;226
+3022;Gais;15;AR;1502;Mittelland;2;31;317
+3023;Speicher;15;AR;1502;Mittelland;2;21;217
+3024;Teufen (AR);15;AR;1502;Mittelland;2;21;217
+3025;Trogen;15;AR;1502;Mittelland;2;21;217
+3031;Grub (AR);15;AR;1503;Vorderland;2;22;227
+3032;Heiden;15;AR;1503;Vorderland;2;31;316
+3033;Lutzenberg;15;AR;1503;Vorderland;2;21;217
+3034;Rehetobel;15;AR;1503;Vorderland;3;23;237
+3035;Reute (AR);15;AR;1503;Vorderland;3;23;237
+3036;Wald (AR);15;AR;1503;Vorderland;3;32;326
+3037;Walzenhausen;15;AR;1503;Vorderland;2;22;226
+3038;Wolfhalden;15;AR;1503;Vorderland;2;22;226
+3101;Appenzell;16;AI;1600;Kt. Appenzell i.Rh.;1;13;134
+3102;Gonten;16;AI;1600;Kt. Appenzell i.Rh.;3;33;338
+3104;Schlatt-Haslen;16;AI;1600;Kt. Appenzell i.Rh.;3;32;325
+3111;Oberegg;16;AI;1600;Kt. Appenzell i.Rh.;3;32;326
+3112;Schwende-R�te;16;AI;1600;Kt. Appenzell i.Rh.;1;13;134
+3201;H�ggenschwil;17;SG;1721;St. Gallen;3;23;235
+3202;Muolen;17;SG;1721;St. Gallen;3;23;237
+3203;St. Gallen;17;SG;1721;St. Gallen;1;12;121
+3204;Wittenbach;17;SG;1721;St. Gallen;1;12;123
+3211;Berg (SG);17;SG;1722;Rorschach;2;22;227
+3212;Eggersriet;17;SG;1721;St. Gallen;3;23;237
+3213;Goldach;17;SG;1722;Rorschach;1;12;123
+3214;M�rschwil;17;SG;1722;Rorschach;2;22;227
+3215;Rorschach;17;SG;1722;Rorschach;1;12;122
+3216;Rorschacherberg;17;SG;1722;Rorschach;1;12;123
+3217;Steinach;17;SG;1722;Rorschach;1;12;122
+3218;T�bach;17;SG;1722;Rorschach;1;12;122
+3219;Untereggen;17;SG;1722;Rorschach;3;23;237
+3231;Au (SG);17;SG;1723;Rheintal;1;12;122
+3232;Balgach;17;SG;1723;Rheintal;1;12;122
+3233;Berneck;17;SG;1723;Rheintal;1;12;122
+3234;Diepoldsau;17;SG;1723;Rheintal;1;12;122
+3235;Rheineck;17;SG;1723;Rheintal;2;21;216
+3236;St. Margrethen;17;SG;1723;Rheintal;1;12;122
+3237;Thal;17;SG;1722;Rorschach;1;12;122
+3238;Widnau;17;SG;1723;Rheintal;1;12;122
+3251;Altst�tten;17;SG;1723;Rheintal;1;12;121
+3252;Eichberg;17;SG;1723;Rheintal;3;23;236
+3253;Marbach (SG);17;SG;1723;Rheintal;1;12;123
+3254;Oberriet (SG);17;SG;1723;Rheintal;2;21;216
+3255;Rebstein;17;SG;1723;Rheintal;1;12;123
+3256;R�thi (SG);17;SG;1723;Rheintal;3;32;326
+3271;Buchs (SG);17;SG;1724;Werdenberg;1;13;137
+3272;Gams;17;SG;1724;Werdenberg;2;22;226
+3273;Grabs;17;SG;1724;Werdenberg;1;13;136
+3274;Sennwald;17;SG;1724;Werdenberg;3;32;326
+3275;Sevelen;17;SG;1724;Werdenberg;2;22;226
+3276;Wartau;17;SG;1724;Werdenberg;3;32;326
+3291;Bad Ragaz;17;SG;1725;Sarganserland;2;31;314
+3292;Flums;17;SG;1725;Sarganserland;2;31;316
+3293;Mels;17;SG;1725;Sarganserland;1;13;137
+3294;Pf�fers;17;SG;1725;Sarganserland;3;33;338
+3295;Quarten;17;SG;1725;Sarganserland;3;32;327
+3296;Sargans;17;SG;1725;Sarganserland;1;13;137
+3297;Vilters-Wangs;17;SG;1725;Sarganserland;1;13;137
+3298;Walenstadt;17;SG;1725;Sarganserland;2;31;317
+3311;Amden;17;SG;1726;See-Gaster;3;23;237
+3312;Benken (SG);17;SG;1726;See-Gaster;3;32;326
+3313;Kaltbrunn;17;SG;1726;See-Gaster;1;13;136
+3315;Sch�nis;17;SG;1726;See-Gaster;2;22;226
+3316;Weesen;17;SG;1726;See-Gaster;2;22;227
+3338;Schmerikon;17;SG;1726;See-Gaster;1;13;136
+3339;Uznach;17;SG;1726;See-Gaster;1;13;137
+3340;Rapperswil-Jona;17;SG;1726;See-Gaster;1;13;137
+3341;Gommiswald;17;SG;1726;See-Gaster;3;32;326
+3342;Eschenbach (SG);17;SG;1726;See-Gaster;2;22;226
+3352;Ebnat-Kappel;17;SG;1727;Toggenburg;2;31;316
+3359;Wildhaus-Alt St. Johann;17;SG;1727;Toggenburg;3;33;334
+3360;Nesslau;17;SG;1727;Toggenburg;3;33;338
+3374;Lichtensteig;17;SG;1727;Toggenburg;1;13;136
+3379;Wattwil;17;SG;1727;Toggenburg;1;13;136
+3392;Kirchberg (SG);17;SG;1727;Toggenburg;2;31;316
+3393;L�tisburg;17;SG;1727;Toggenburg;3;32;326
+3394;Mosnang;17;SG;1727;Toggenburg;3;32;327
+3395;B�tschwil-Ganterschwil;17;SG;1727;Toggenburg;2;31;316
+3396;Neckertal;17;SG;1727;Toggenburg;3;32;327
+3401;Degersheim;17;SG;1728;Wil;2;22;226
+3402;Flawil;17;SG;1728;Wil;2;21;216
+3405;Jonschwil;17;SG;1728;Wil;2;22;226
+3407;Oberuzwil;17;SG;1728;Wil;1;12;123
+3408;Uzwil;17;SG;1728;Wil;1;12;122
+3422;Niederb�ren;17;SG;1728;Wil;3;23;236
+3423;Niederhelfenschwil;17;SG;1728;Wil;3;23;237
+3424;Oberb�ren;17;SG;1728;Wil;1;12;122
+3426;Zuzwil (SG);17;SG;1728;Wil;2;21;216
+3427;Wil (SG);17;SG;1728;Wil;1;12;121
+3441;Andwil (SG);17;SG;1721;St. Gallen;2;22;226
+3442;Gaiserwald;17;SG;1721;St. Gallen;1;12;123
+3443;Gossau (SG);17;SG;1721;St. Gallen;1;12;122
+3444;Waldkirch;17;SG;1721;St. Gallen;2;22;226
+3506;Vaz/Obervaz;18;GR;1841;Albula;3;33;334
+3513;Lantsch/Lenz;18;GR;1841;Albula;3;33;338
+3514;Schmitten (GR);18;GR;1841;Albula;3;33;338
+3542;Albula/Alvra;18;GR;1841;Albula;3;33;338
+3543;Surses;18;GR;1841;Albula;3;33;334
+3544;Berg�n Filisur;18;GR;1841;Albula;3;33;334
+3551;Brusio;18;GR;1842;Bernina;3;33;338
+3561;Poschiavo;18;GR;1842;Bernina;2;31;314
+3572;Falera;18;GR;1850;Surselva;3;33;338
+3575;Laax;18;GR;1850;Surselva;2;31;314
+3581;Sagogn;18;GR;1850;Surselva;3;33;338
+3582;Schluein;18;GR;1850;Surselva;3;33;338
+3603;Vals;18;GR;1850;Surselva;3;33;334
+3618;Lumnezia;18;GR;1850;Surselva;3;33;338
+3619;Ilanz/Glion;18;GR;1850;Surselva;2;31;317
+3633;F�rstenau;18;GR;1851;Viamala;3;33;338
+3637;Rothenbrunnen;18;GR;1851;Viamala;3;32;327
+3638;Scharans;18;GR;1851;Viamala;3;33;338
+3640;Sils im Domleschg;18;GR;1851;Viamala;3;33;338
+3661;Cazis;18;GR;1851;Viamala;2;31;317
+3662;Flerden;18;GR;1851;Viamala;3;33;335
+3663;Masein;18;GR;1851;Viamala;2;31;317
+3668;Thusis;18;GR;1851;Viamala;2;31;317
+3669;Tschappina;18;GR;1851;Viamala;3;33;335
+3670;Urmein;18;GR;1851;Viamala;3;33;335
+3672;Safiental;18;GR;1850;Surselva;3;33;335
+3673;Domleschg;18;GR;1851;Viamala;3;33;338
+3681;Avers;18;GR;1851;Viamala;3;33;335
+3695;Sufers;18;GR;1851;Viamala;3;33;338
+3701;Andeer;18;GR;1851;Viamala;3;33;338
+3711;Rongellen;18;GR;1851;Viamala;3;33;335
+3712;Zillis-Reischen;18;GR;1851;Viamala;3;33;338
+3713;Ferrera;18;GR;1851;Viamala;3;33;338
+3714;Rheinwald;18;GR;1851;Viamala;3;33;338
+3715;Muntogna da Schons;18;GR;1851;Viamala;3;33;335
+3721;Bonaduz;18;GR;1844;Imboden;2;21;216
+3722;Domat/Ems;18;GR;1844;Imboden;2;21;216
+3723;Rh�z�ns;18;GR;1844;Imboden;2;21;216
+3731;Felsberg;18;GR;1844;Imboden;2;22;226
+3732;Flims;18;GR;1844;Imboden;2;31;314
+3733;Tamins;18;GR;1844;Imboden;3;23;236
+3734;Trin;18;GR;1844;Imboden;3;33;338
+3746;Zernez;18;GR;1843;Engiadina B./Val M�stair;3;33;334
+3752;Samnaun;18;GR;1843;Engiadina B./Val M�stair;3;33;334
+3762;Scuol;18;GR;1843;Engiadina B./Val M�stair;2;31;314
+3764;Valsot;18;GR;1843;Engiadina B./Val M�stair;3;33;338
+3781;Bever;18;GR;1846;Maloja;3;33;338
+3782;Celerina/Schlarigna;18;GR;1846;Maloja;3;33;334
+3783;Madulain;18;GR;1846;Maloja;3;33;338
+3784;Pontresina;18;GR;1846;Maloja;2;31;314
+3785;La Punt Chamues-ch;18;GR;1846;Maloja;3;33;338
+3786;Samedan;18;GR;1846;Maloja;2;31;314
+3787;St. Moritz;18;GR;1846;Maloja;1;13;134
+3788;S-chanf;18;GR;1846;Maloja;3;33;338
+3789;Sils im Engadin/Segl;18;GR;1846;Maloja;3;33;334
+3790;Silvaplana;18;GR;1846;Maloja;3;33;334
+3791;Zuoz;18;GR;1846;Maloja;3;33;334
+3792;Bregaglia;18;GR;1846;Maloja;3;33;334
+3804;Buseno;18;GR;1847;Moesa;3;33;335
+3805;Castaneda;18;GR;1847;Moesa;3;33;338
+3808;Rossa;18;GR;1847;Moesa;3;33;338
+3810;Santa Maria in Calanca;18;GR;1847;Moesa;3;33;338
+3821;Lostallo;18;GR;1847;Moesa;3;33;338
+3822;Mesocco;18;GR;1847;Moesa;3;33;338
+3823;Soazza;18;GR;1847;Moesa;3;33;338
+3831;Cama;18;GR;1847;Moesa;3;33;338
+3832;Grono;18;GR;1847;Moesa;3;33;338
+3834;Roveredo (GR);18;GR;1847;Moesa;2;31;317
+3835;San Vittore;18;GR;1847;Moesa;2;22;226
+3837;Calanca;18;GR;1847;Moesa;3;33;338
+3847;Val M�stair;18;GR;1843;Engiadina B./Val M�stair;3;33;334
+3851;Davos;18;GR;1849;Pr�ttigau / Davos;1;13;134
+3861;Fideris;18;GR;1849;Pr�ttigau / Davos;3;33;338
+3862;Furna;18;GR;1849;Pr�ttigau / Davos;3;33;335
+3863;Jenaz;18;GR;1849;Pr�ttigau / Davos;3;33;338
+3871;Klosters;18;GR;1849;Pr�ttigau / Davos;2;31;314
+3881;Conters im Pr�ttigau;18;GR;1849;Pr�ttigau / Davos;3;33;338
+3882;K�blis;18;GR;1849;Pr�ttigau / Davos;3;33;338
+3891;Luzein;18;GR;1849;Pr�ttigau / Davos;3;33;335
+3901;Chur;18;GR;1848;Plessur;1;12;121
+3911;Churwalden;18;GR;1848;Plessur;3;33;338
+3921;Arosa;18;GR;1848;Plessur;2;31;314
+3932;Tschiertschen-Praden;18;GR;1848;Plessur;3;23;237
+3945;Trimmis;18;GR;1845;Landquart;2;22;226
+3946;Untervaz;18;GR;1845;Landquart;2;22;226
+3947;Zizers;18;GR;1845;Landquart;1;13;136
+3951;Fl�sch;18;GR;1845;Landquart;3;32;327
+3952;Jenins;18;GR;1845;Landquart;3;32;325
+3953;Maienfeld;18;GR;1845;Landquart;3;32;326
+3954;Malans;18;GR;1845;Landquart;3;32;326
+3955;Landquart;18;GR;1845;Landquart;1;13;136
+3961;Gr�sch;18;GR;1849;Pr�ttigau / Davos;3;32;326
+3962;Schiers;18;GR;1849;Pr�ttigau / Davos;2;31;317
+3972;Seewis im Pr�ttigau;18;GR;1849;Pr�ttigau / Davos;3;32;326
+3981;Breil/Brigels;18;GR;1850;Surselva;3;33;334
+3982;Disentis/Must�r;18;GR;1850;Surselva;3;33;334
+3983;Medel (Lucmagn);18;GR;1850;Surselva;3;33;338
+3985;Sumvitg;18;GR;1850;Surselva;3;33;338
+3986;Tujetsch;18;GR;1850;Surselva;3;33;334
+3987;Trun;18;GR;1850;Surselva;3;33;338
+3988;Obersaxen Mundaun;18;GR;1850;Surselva;3;33;338
+4001;Aarau;19;AG;1901;Aarau;1;12;121
+4002;Biberstein;19;AG;1901;Aarau;2;22;227
+4003;Buchs (AG);19;AG;1901;Aarau;1;12;122
+4004;Densb�ren;19;AG;1901;Aarau;3;23;236
+4005;Erlinsbach (AG);19;AG;1901;Aarau;1;12;123
+4006;Gr�nichen;19;AG;1901;Aarau;1;12;123
+4007;Hirschthal;19;AG;1901;Aarau;1;12;122
+4008;K�ttigen;19;AG;1901;Aarau;1;12;123
+4009;Muhen;19;AG;1901;Aarau;1;12;123
+4010;Oberentfelden;19;AG;1901;Aarau;1;12;123
+4012;Suhr;19;AG;1901;Aarau;1;12;123
+4013;Unterentfelden;19;AG;1901;Aarau;1;12;122
+4021;Baden;19;AG;1902;Baden;1;12;121
+4022;Bellikon;19;AG;1902;Baden;2;22;227
+4023;Bergdietikon;19;AG;1902;Baden;1;11;113
+4024;Birmenstorf (AG);19;AG;1902;Baden;2;22;227
+4026;Ennetbaden;19;AG;1902;Baden;1;12;123
+4027;Fislisbach;19;AG;1902;Baden;1;12;123
+4028;Freienwil;19;AG;1902;Baden;3;23;237
+4029;Gebenstorf;19;AG;1902;Baden;1;12;123
+4030;Killwangen;19;AG;1902;Baden;1;11;113
+4031;K�nten;19;AG;1902;Baden;2;22;226
+4032;M�genwil;19;AG;1902;Baden;2;22;227
+4033;Mellingen;19;AG;1902;Baden;2;21;217
+4034;Neuenhof;19;AG;1902;Baden;1;12;123
+4035;Niederrohrdorf;19;AG;1902;Baden;1;13;137
+4037;Oberrohrdorf;19;AG;1902;Baden;1;13;137
+4038;Obersiggenthal;19;AG;1902;Baden;1;12;123
+4039;Remetschwil;19;AG;1902;Baden;1;13;136
+4040;Spreitenbach;19;AG;1902;Baden;1;11;112
+4041;Stetten (AG);19;AG;1902;Baden;1;13;136
+4044;Untersiggenthal;19;AG;1902;Baden;1;12;123
+4045;Wettingen;19;AG;1902;Baden;1;12;123
+4046;Wohlenschwil;19;AG;1902;Baden;2;21;217
+4047;W�renlingen;19;AG;1902;Baden;2;21;216
+4048;W�renlos;19;AG;1902;Baden;1;11;113
+4049;Ehrendingen;19;AG;1902;Baden;2;22;227
+4061;Arni (AG);19;AG;1903;Bremgarten;2;22;226
+4062;Berikon;19;AG;1903;Bremgarten;1;11;113
+4063;Bremgarten (AG);19;AG;1903;Bremgarten;1;11;112
+4064;B�ttikon;19;AG;1903;Bremgarten;2;22;226
+4065;Dottikon;19;AG;1903;Bremgarten;2;21;216
+4066;Eggenwil;19;AG;1903;Bremgarten;2;22;227
+4067;Fischbach-G�slikon;19;AG;1903;Bremgarten;2;22;226
+4068;H�gglingen;19;AG;1903;Bremgarten;2;21;216
+4071;Jonen;19;AG;1903;Bremgarten;2;22;226
+4072;Niederwil (AG);19;AG;1903;Bremgarten;2;22;226
+4073;Oberlunkhofen;19;AG;1903;Bremgarten;2;22;227
+4074;Oberwil-Lieli;19;AG;1903;Bremgarten;2;22;227
+4075;Rudolfstetten-Friedlisberg;19;AG;1903;Bremgarten;1;11;113
+4076;Sarmenstorf;19;AG;1903;Bremgarten;3;32;327
+4077;T�gerig;19;AG;1903;Bremgarten;2;22;227
+4078;Uezwil;19;AG;1903;Bremgarten;3;23;235
+4079;Unterlunkhofen;19;AG;1903;Bremgarten;2;22;226
+4080;Villmergen;19;AG;1903;Bremgarten;1;13;136
+4081;Widen;19;AG;1903;Bremgarten;1;11;113
+4082;Wohlen (AG);19;AG;1903;Bremgarten;1;13;137
+4083;Zufikon;19;AG;1903;Bremgarten;1;11;113
+4084;Islisberg;19;AG;1903;Bremgarten;3;23;235
+4091;Auenstein;19;AG;1904;Brugg;2;22;226
+4092;Birr;19;AG;1904;Brugg;2;21;216
+4093;Birrhard;19;AG;1904;Brugg;3;23;236
+4095;Brugg;19;AG;1904;Brugg;1;12;122
+4099;Habsburg;19;AG;1904;Brugg;2;22;227
+4100;Hausen (AG);19;AG;1904;Brugg;1;12;123
+4104;Lupfig;19;AG;1904;Brugg;2;21;217
+4105;Mandach;19;AG;1904;Brugg;3;32;325
+4106;M�nthal;19;AG;1904;Brugg;3;23;236
+4107;M�lligen;19;AG;1904;Brugg;2;22;226
+4110;Remigen;19;AG;1904;Brugg;3;23;236
+4111;Riniken;19;AG;1904;Brugg;2;22;227
+4112;R�fenach;19;AG;1904;Brugg;2;22;227
+4117;Thalheim (AG);19;AG;1904;Brugg;3;23;236
+4120;Veltheim (AG);19;AG;1904;Brugg;2;22;226
+4121;Villigen;19;AG;1904;Brugg;2;22;227
+4122;Villnachern;19;AG;1904;Brugg;3;23;236
+4123;Windisch;19;AG;1904;Brugg;1;12;122
+4124;B�zberg;19;AG;1904;Brugg;3;23;237
+4125;Schinznach;19;AG;1904;Brugg;2;22;226
+4131;Beinwil am See;19;AG;1905;Kulm;1;13;137
+4132;Birrwil;19;AG;1905;Kulm;2;22;227
+4134;D�rren�sch;19;AG;1905;Kulm;3;32;327
+4135;Gontenschwil;19;AG;1905;Kulm;3;32;326
+4136;Holziken;19;AG;1905;Kulm;1;12;123
+4137;Leimbach (AG);19;AG;1905;Kulm;2;22;226
+4138;Leutwil;19;AG;1905;Kulm;3;32;326
+4139;Menziken;19;AG;1905;Kulm;1;13;137
+4140;Oberkulm;19;AG;1905;Kulm;3;32;326
+4141;Reinach (AG);19;AG;1905;Kulm;1;13;136
+4142;Schlossrued;19;AG;1905;Kulm;3;32;326
+4143;Schmiedrued;19;AG;1905;Kulm;3;32;326
+4144;Sch�ftland;19;AG;1905;Kulm;1;12;123
+4145;Teufenthal (AG);19;AG;1905;Kulm;3;32;326
+4146;Unterkulm;19;AG;1905;Kulm;3;32;326
+4147;Zetzwil;19;AG;1905;Kulm;3;32;327
+4161;Eiken;19;AG;1906;Laufenburg;2;22;226
+4163;Frick;19;AG;1906;Laufenburg;1;13;137
+4164;Gansingen;19;AG;1906;Laufenburg;3;32;325
+4165;Gipf-Oberfrick;19;AG;1906;Laufenburg;1;13;137
+4169;Kaisten;19;AG;1906;Laufenburg;3;32;326
+4170;Laufenburg;19;AG;1906;Laufenburg;3;32;326
+4172;M�nchwilen (AG);19;AG;1906;Laufenburg;1;13;136
+4173;Oberhof;19;AG;1906;Laufenburg;3;23;235
+4175;Oeschgen;19;AG;1906;Laufenburg;1;13;137
+4176;Schwaderloch;19;AG;1906;Laufenburg;3;32;326
+4177;Sisseln;19;AG;1906;Laufenburg;2;22;226
+4181;Wittnau;19;AG;1906;Laufenburg;3;23;236
+4182;W�lflinswil;19;AG;1906;Laufenburg;3;32;327
+4183;Zeihen;19;AG;1906;Laufenburg;3;23;237
+4184;Mettauertal;19;AG;1906;Laufenburg;3;32;326
+4185;B�ztal;19;AG;1906;Laufenburg;3;23;237
+4186;Herznach-Ueken;19;AG;1906;Laufenburg;2;22;227
+4191;Ammerswil;19;AG;1907;Lenzburg;3;23;235
+4192;Boniswil;19;AG;1907;Lenzburg;3;32;326
+4193;Brunegg;19;AG;1907;Lenzburg;2;22;227
+4194;Dintikon;19;AG;1907;Lenzburg;2;21;217
+4195;Egliswil;19;AG;1907;Lenzburg;3;32;326
+4196;Fahrwangen;19;AG;1907;Lenzburg;3;32;326
+4197;Hallwil;19;AG;1907;Lenzburg;3;32;326
+4198;Hendschiken;19;AG;1907;Lenzburg;2;22;227
+4199;Holderbank (AG);19;AG;1907;Lenzburg;1;13;137
+4200;Hunzenschwil;19;AG;1907;Lenzburg;2;21;217
+4201;Lenzburg;19;AG;1907;Lenzburg;1;13;137
+4202;Meisterschwanden;19;AG;1907;Lenzburg;3;32;327
+4203;M�riken-Wildegg;19;AG;1907;Lenzburg;1;13;136
+4204;Niederlenz;19;AG;1907;Lenzburg;1;13;136
+4205;Othmarsingen;19;AG;1907;Lenzburg;2;22;227
+4206;Rupperswil;19;AG;1907;Lenzburg;2;21;216
+4207;Schafisheim;19;AG;1907;Lenzburg;2;21;217
+4208;Seengen;19;AG;1907;Lenzburg;3;32;327
+4209;Seon;19;AG;1907;Lenzburg;2;21;217
+4210;Staufen;19;AG;1907;Lenzburg;1;13;137
+4221;Abtwil;19;AG;1908;Muri;3;23;236
+4222;Aristau;19;AG;1908;Muri;3;23;237
+4223;Auw;19;AG;1908;Muri;2;22;226
+4224;Beinwil (Freiamt);19;AG;1908;Muri;3;32;327
+4226;Besenb�ren;19;AG;1908;Muri;3;23;237
+4227;Bettwil;19;AG;1908;Muri;3;32;326
+4228;Boswil;19;AG;1908;Muri;2;22;226
+4229;B�nzen;19;AG;1908;Muri;2;22;227
+4230;Buttwil;19;AG;1908;Muri;3;32;327
+4231;Dietwil;19;AG;1908;Muri;3;23;235
+4232;Geltwil;19;AG;1908;Muri;3;32;325
+4233;Kallern;19;AG;1908;Muri;3;23;235
+4234;Merenschwand;19;AG;1908;Muri;2;22;226
+4235;M�hlau;19;AG;1908;Muri;3;23;236
+4236;Muri (AG);19;AG;1908;Muri;2;31;317
+4237;Oberr�ti;19;AG;1908;Muri;3;23;236
+4238;Rottenschwil;19;AG;1908;Muri;3;23;236
+4239;Sins;19;AG;1908;Muri;2;22;226
+4240;Waltenschwil;19;AG;1908;Muri;2;22;227
+4251;Hellikon;19;AG;1909;Rheinfelden;3;23;235
+4252;Kaiseraugst;19;AG;1909;Rheinfelden;1;11;112
+4253;Magden;19;AG;1909;Rheinfelden;2;22;227
+4254;M�hlin;19;AG;1909;Rheinfelden;1;11;113
+4255;Mumpf;19;AG;1909;Rheinfelden;1;13;137
+4256;Obermumpf;19;AG;1909;Rheinfelden;3;23;237
+4257;Olsberg;19;AG;1909;Rheinfelden;3;23;237
+4258;Rheinfelden;19;AG;1909;Rheinfelden;1;11;112
+4259;Schupfart;19;AG;1909;Rheinfelden;3;23;237
+4260;Stein (AG);19;AG;1909;Rheinfelden;1;13;136
+4261;Wallbach;19;AG;1909;Rheinfelden;1;13;136
+4262;Wegenstetten;19;AG;1909;Rheinfelden;3;23;237
+4263;Zeiningen;19;AG;1909;Rheinfelden;2;22;227
+4264;Zuzgen;19;AG;1909;Rheinfelden;3;23;237
+4271;Aarburg;19;AG;1910;Zofingen;1;12;123
+4273;Bottenwil;19;AG;1910;Zofingen;3;23;236
+4274;Brittnau;19;AG;1910;Zofingen;1;12;123
+4275;Kirchleerau;19;AG;1910;Zofingen;2;22;226
+4276;K�lliken;19;AG;1910;Zofingen;2;22;227
+4277;Moosleerau;19;AG;1910;Zofingen;3;32;326
+4279;Murgenthal;19;AG;1910;Zofingen;3;32;326
+4280;Oftringen;19;AG;1910;Zofingen;1;12;123
+4281;Reitnau;19;AG;1910;Zofingen;3;32;326
+4282;Rothrist;19;AG;1910;Zofingen;1;13;136
+4283;Safenwil;19;AG;1910;Zofingen;2;21;217
+4284;Staffelbach;19;AG;1910;Zofingen;3;23;236
+4285;Strengelbach;19;AG;1910;Zofingen;1;12;123
+4286;Uerkheim;19;AG;1910;Zofingen;3;23;236
+4287;Vordemwald;19;AG;1910;Zofingen;2;22;226
+4288;Wiliberg;19;AG;1910;Zofingen;3;23;237
+4289;Zofingen;19;AG;1910;Zofingen;1;12;122
+4303;B�ttstein;19;AG;1911;Zurzach;1;13;136
+4304;D�ttingen;19;AG;1911;Zurzach;1;13;136
+4305;Endingen;19;AG;1911;Zurzach;2;22;227
+4306;Fisibach;19;AG;1911;Zurzach;2;22;226
+4307;Full-Reuenthal;19;AG;1911;Zurzach;3;32;327
+4309;Klingnau;19;AG;1911;Zurzach;1;13;136
+4310;Koblenz;19;AG;1911;Zurzach;2;22;226
+4311;Leibstadt;19;AG;1911;Zurzach;3;32;326
+4312;Lengnau (AG);19;AG;1911;Zurzach;2;22;226
+4313;Leuggern;19;AG;1911;Zurzach;3;32;327
+4314;Mellikon;19;AG;1911;Zurzach;3;23;236
+4318;Schneisingen;19;AG;1911;Zurzach;2;22;227
+4319;Siglistorf;19;AG;1911;Zurzach;3;23;236
+4320;Tegerfelden;19;AG;1911;Zurzach;3;23;236
+4324;Zurzach;19;AG;1911;Zurzach;2;21;217
+4401;Arbon;20;TG;2011;Arbon;1;12;121
+4406;Dozwil;20;TG;2011;Arbon;2;22;226
+4411;Egnach;20;TG;2011;Arbon;2;22;227
+4416;Hefenhofen;20;TG;2011;Arbon;2;22;226
+4421;Horn;20;TG;2011;Arbon;1;12;123
+4426;Kesswil;20;TG;2011;Arbon;2;22;226
+4431;Roggwil (TG);20;TG;2011;Arbon;1;12;123
+4436;Romanshorn;20;TG;2011;Arbon;1;13;136
+4441;Salmsach;20;TG;2011;Arbon;1;13;137
+4446;Sommeri;20;TG;2011;Arbon;3;32;327
+4451;Uttwil;20;TG;2011;Arbon;2;22;227
+4461;Amriswil;20;TG;2011;Arbon;1;13;136
+4471;Bischofszell;20;TG;2015;Weinfelden;2;31;316
+4476;Erlen;20;TG;2015;Weinfelden;3;32;326
+4486;Hauptwil-Gottshaus;20;TG;2015;Weinfelden;3;32;326
+4495;Hohentannen;20;TG;2015;Weinfelden;3;32;325
+4501;Kradolf-Sch�nenberg;20;TG;2015;Weinfelden;3;32;326
+4506;Sulgen;20;TG;2015;Weinfelden;3;32;326
+4511;Zihlschlacht-Sitterdorf;20;TG;2015;Weinfelden;3;32;327
+4536;Basadingen-Schlattingen;20;TG;2012;Frauenfeld;3;32;325
+4545;Diessenhofen;20;TG;2012;Frauenfeld;3;32;326
+4546;Schlatt (TG);20;TG;2012;Frauenfeld;3;23;236
+4551;Aadorf;20;TG;2014;M�nchwilen;2;21;216
+4561;Felben-Wellhausen;20;TG;2012;Frauenfeld;2;22;226
+4566;Frauenfeld;20;TG;2012;Frauenfeld;1;13;137
+4571;Gachnang;20;TG;2012;Frauenfeld;2;22;227
+4590;H�ttlingen;20;TG;2012;Frauenfeld;3;23;235
+4591;Matzingen;20;TG;2012;Frauenfeld;2;22;226
+4601;Neunforn;20;TG;2012;Frauenfeld;3;23;236
+4606;Stettfurt;20;TG;2012;Frauenfeld;3;23;235
+4611;Thundorf;20;TG;2012;Frauenfeld;3;23;235
+4616;Uesslingen-Buch;20;TG;2012;Frauenfeld;3;23;235
+4621;Warth-Weiningen;20;TG;2012;Frauenfeld;3;23;237
+4641;Altnau;20;TG;2013;Kreuzlingen;3;32;327
+4643;Bottighofen;20;TG;2013;Kreuzlingen;1;13;137
+4646;Ermatingen;20;TG;2013;Kreuzlingen;3;32;327
+4651;Gottlieben;20;TG;2013;Kreuzlingen;2;21;216
+4656;G�ttingen;20;TG;2013;Kreuzlingen;2;22;226
+4666;Kemmental;20;TG;2013;Kreuzlingen;3;32;327
+4671;Kreuzlingen;20;TG;2013;Kreuzlingen;1;13;137
+4681;Langrickenbach;20;TG;2013;Kreuzlingen;3;32;325
+4683;Lengwil;20;TG;2013;Kreuzlingen;3;32;327
+4691;M�nsterlingen;20;TG;2013;Kreuzlingen;3;32;327
+4696;T�gerwilen;20;TG;2013;Kreuzlingen;2;21;217
+4701;W�ldi;20;TG;2013;Kreuzlingen;3;32;327
+4711;Affeltrangen;20;TG;2015;Weinfelden;3;32;326
+4716;Bettwiesen;20;TG;2014;M�nchwilen;3;23;236
+4721;Bichelsee-Balterswil;20;TG;2014;M�nchwilen;2;22;226
+4723;Braunau;20;TG;2014;M�nchwilen;3;23;235
+4724;Eschlikon;20;TG;2014;M�nchwilen;2;21;216
+4726;Fischingen;20;TG;2014;M�nchwilen;3;32;326
+4741;Lommis;20;TG;2014;M�nchwilen;3;23;236
+4746;M�nchwilen (TG);20;TG;2014;M�nchwilen;1;12;123
+4751;Rickenbach (TG);20;TG;2014;M�nchwilen;1;12;123
+4756;Sch�nholzerswilen;20;TG;2015;Weinfelden;3;32;325
+4761;Sirnach;20;TG;2014;M�nchwilen;1;12;123
+4776;Tobel-T�gerschen;20;TG;2014;M�nchwilen;2;22;227
+4781;W�ngi;20;TG;2014;M�nchwilen;2;22;226
+4786;Wilen (TG);20;TG;2014;M�nchwilen;1;12;123
+4791;Wuppenau;20;TG;2015;Weinfelden;3;23;237
+4801;Berlingen;20;TG;2012;Frauenfeld;3;32;327
+4806;Eschenz;20;TG;2012;Frauenfeld;2;31;316
+4811;Herdern;20;TG;2012;Frauenfeld;3;23;235
+4816;Homburg;20;TG;2012;Frauenfeld;3;32;326
+4821;H�ttwilen;20;TG;2012;Frauenfeld;3;23;236
+4826;Mammern;20;TG;2012;Frauenfeld;3;32;327
+4831;M�llheim;20;TG;2012;Frauenfeld;2;22;226
+4841;Pfyn;20;TG;2012;Frauenfeld;3;23;237
+4846;Raperswilen;20;TG;2013;Kreuzlingen;3;32;325
+4851;Salenstein;20;TG;2013;Kreuzlingen;3;32;327
+4864;Steckborn;20;TG;2012;Frauenfeld;3;32;326
+4871;Wagenhausen;20;TG;2012;Frauenfeld;2;31;316
+4881;Amlikon-Bissegg;20;TG;2015;Weinfelden;3;32;327
+4891;Berg (TG);20;TG;2015;Weinfelden;3;32;327
+4901;Birwinken;20;TG;2015;Weinfelden;3;32;325
+4911;B�rglen (TG);20;TG;2015;Weinfelden;3;32;327
+4921;Bussnang;20;TG;2015;Weinfelden;3;32;326
+4941;M�rstetten;20;TG;2015;Weinfelden;3;32;327
+4946;Weinfelden;20;TG;2015;Weinfelden;1;13;137
+4951;Wigoltingen;20;TG;2015;Weinfelden;3;32;326
+5001;Arbedo-Castione;21;TI;2101;Bellinzona;1;12;122
+5002;Bellinzona;21;TI;2101;Bellinzona;1;12;121
+5003;Cadenazzo;21;TI;2101;Bellinzona;2;21;217
+5009;Isone;21;TI;2101;Bellinzona;3;23;237
+5010;Lumino;21;TI;2101;Bellinzona;2;22;226
+5017;Sant'Antonino;21;TI;2101;Bellinzona;2;21;217
+5048;Acquarossa;21;TI;2102;Blenio;3;33;338
+5049;Blenio;21;TI;2102;Blenio;3;33;338
+5050;Serravalle;21;TI;2102;Blenio;3;33;338
+5061;Airolo;21;TI;2103;Leventina;3;33;338
+5063;Bedretto;21;TI;2103;Leventina;3;33;338
+5064;Bodio;21;TI;2103;Leventina;3;33;338
+5071;Dalpe;21;TI;2103;Leventina;3;33;338
+5072;Faido;21;TI;2103;Leventina;3;33;338
+5073;Giornico;21;TI;2103;Leventina;3;33;338
+5076;Personico;21;TI;2103;Leventina;3;33;338
+5077;Pollegio;21;TI;2103;Leventina;2;31;317
+5078;Prato (Leventina);21;TI;2103;Leventina;3;33;338
+5079;Quinto;21;TI;2103;Leventina;3;33;338
+5091;Ascona;21;TI;2104;Locarno;1;12;122
+5096;Brione sopra Minusio;21;TI;2104;Locarno;1;12;123
+5097;Brissago;21;TI;2104;Locarno;2;22;227
+5108;Gordola;21;TI;2104;Locarno;1;12;123
+5112;Lavertezzo;21;TI;2104;Locarno;1;12;122
+5113;Locarno;21;TI;2104;Locarno;1;12;121
+5115;Losone;21;TI;2104;Locarno;1;12;123
+5117;Mergoscia;21;TI;2104;Locarno;3;23;237
+5118;Minusio;21;TI;2104;Locarno;1;12;123
+5120;Muralto;21;TI;2104;Locarno;1;12;122
+5121;Orselina;21;TI;2104;Locarno;1;12;122
+5125;Ronco sopra Ascona;21;TI;2104;Locarno;3;23;236
+5131;Tenero-Contra;21;TI;2104;Locarno;1;12;123
+5136;Onsernone;21;TI;2104;Locarno;3;33;338
+5138;Cugnasco-Gerra;21;TI;2104;Locarno;1;12;123
+5141;Agno;21;TI;2105;Lugano;1;12;122
+5143;Aranno;21;TI;2105;Lugano;3;23;235
+5144;Arogno;21;TI;2105;Lugano;3;23;237
+5146;Astano;21;TI;2105;Lugano;3;23;237
+5148;Bedano;21;TI;2105;Lugano;1;12;122
+5149;Bedigliora;21;TI;2105;Lugano;2;22;227
+5151;Bioggio;21;TI;2105;Lugano;1;12;122
+5154;Bissone;21;TI;2105;Lugano;2;22;227
+5160;Brusino Arsizio;21;TI;2105;Lugano;3;23;237
+5161;Cademario;21;TI;2105;Lugano;3;23;237
+5162;Cadempino;21;TI;2105;Lugano;1;12;122
+5167;Canobbio;21;TI;2105;Lugano;1;12;123
+5171;Caslano;21;TI;2105;Lugano;2;21;216
+5176;Comano;21;TI;2105;Lugano;1;12;123
+5180;Cureglia;21;TI;2105;Lugano;1;12;123
+5181;Curio;21;TI;2105;Lugano;2;22;227
+5186;Grancia;21;TI;2105;Lugano;1;12;122
+5187;Gravesano;21;TI;2105;Lugano;1;12;122
+5189;Lamone;21;TI;2105;Lugano;1;12;122
+5192;Lugano;21;TI;2105;Lugano;1;12;121
+5193;Magliaso;21;TI;2105;Lugano;2;21;217
+5194;Manno;21;TI;2105;Lugano;1;12;122
+5196;Massagno;21;TI;2105;Lugano;1;12;123
+5198;Melide;21;TI;2105;Lugano;2;22;227
+5199;Mezzovico-Vira;21;TI;2105;Lugano;2;22;226
+5200;Miglieglia;21;TI;2105;Lugano;3;23;236
+5203;Morcote;21;TI;2105;Lugano;3;23;237
+5205;Muzzano;21;TI;2105;Lugano;1;12;122
+5206;Neggio;21;TI;2105;Lugano;1;12;123
+5207;Novaggio;21;TI;2105;Lugano;2;22;227
+5208;Origlio;21;TI;2105;Lugano;2;21;217
+5210;Paradiso;21;TI;2105;Lugano;1;12;122
+5212;Ponte Capriasca;21;TI;2105;Lugano;2;21;217
+5214;Porza;21;TI;2105;Lugano;1;12;123
+5216;Pura;21;TI;2105;Lugano;2;21;217
+5221;Savosa;21;TI;2105;Lugano;1;12;123
+5225;Sorengo;21;TI;2105;Lugano;1;12;122
+5226;Capriasca;21;TI;2105;Lugano;2;21;217
+5227;Torricella-Taverne;21;TI;2105;Lugano;1;12;122
+5230;Vernate;21;TI;2105;Lugano;1;12;123
+5231;Vezia;21;TI;2105;Lugano;1;12;122
+5233;Vico Morcote;21;TI;2105;Lugano;3;23;237
+5236;Collina d'Oro;21;TI;2105;Lugano;1;12;122
+5237;Alto Malcantone;21;TI;2105;Lugano;3;23;237
+5238;Monteceneri;21;TI;2105;Lugano;2;22;227
+5239;Tresa;21;TI;2105;Lugano;2;22;226
+5240;Val Mara;21;TI;2105;Lugano;2;22;227
+5242;Balerna;21;TI;2106;Mendrisio;1;12;122
+5249;Castel San Pietro;21;TI;2106;Mendrisio;1;12;122
+5250;Chiasso;21;TI;2106;Mendrisio;1;12;122
+5251;Coldrerio;21;TI;2106;Mendrisio;1;12;123
+5254;Mendrisio;21;TI;2106;Mendrisio;1;12;121
+5257;Morbio Inferiore;21;TI;2106;Mendrisio;1;12;123
+5260;Novazzano;21;TI;2106;Mendrisio;1;12;122
+5263;Riva San Vitale;21;TI;2106;Mendrisio;2;22;226
+5266;Stabio;21;TI;2106;Mendrisio;1;12;122
+5268;Vacallo;21;TI;2106;Mendrisio;1;12;123
+5269;Breggia;21;TI;2106;Mendrisio;2;22;227
+5281;Biasca;21;TI;2107;Riviera;2;31;317
+5287;Riviera;21;TI;2107;Riviera;2;22;226
+5304;Bosco/Gurin;21;TI;2108;Vallemaggia;3;33;338
+5307;Campo (Vallemaggia);21;TI;2108;Vallemaggia;3;33;338
+5309;Cerentino;21;TI;2108;Vallemaggia;3;33;335
+5310;Cevio;21;TI;2108;Vallemaggia;3;33;338
+5315;Linescio;21;TI;2108;Vallemaggia;3;33;335
+5317;Maggia;21;TI;2108;Vallemaggia;3;23;237
+5323;Lavizzara;21;TI;2108;Vallemaggia;3;33;338
+5324;Avegno Gordevio;21;TI;2108;Vallemaggia;3;23;237
+5396;Terre di Pedemonte;21;TI;2104;Locarno;2;22;227
+5397;Centovalli;21;TI;2104;Locarno;2;22;227
+5398;Gambarogno;21;TI;2104;Locarno;2;22;226
+5399;Verzasca;21;TI;2104;Locarno;3;23;237
+5401;Aigle;22;VD;2221;Aigle;1;13;137
+5402;Bex;22;VD;2221;Aigle;2;31;317
+5403;Chessel;22;VD;2221;Aigle;2;22;227
+5404;Corbeyrier;22;VD;2221;Aigle;3;32;327
+5405;Gryon;22;VD;2221;Aigle;3;33;338
+5406;Lavey-Morcles;22;VD;2221;Aigle;2;31;317
+5407;Leysin;22;VD;2221;Aigle;2;31;314
+5408;Noville;22;VD;2221;Aigle;1;13;136
+5409;Ollon;22;VD;2221;Aigle;2;31;314
+5410;Ormont-Dessous;22;VD;2221;Aigle;3;33;338
+5411;Ormont-Dessus;22;VD;2221;Aigle;3;33;334
+5412;Rennaz;22;VD;2221;Aigle;1;13;137
+5413;Roche (VD);22;VD;2221;Aigle;2;22;226
+5414;Villeneuve (VD);22;VD;2221;Aigle;1;13;136
+5415;Yvorne;22;VD;2221;Aigle;3;32;325
+5422;Aubonne;22;VD;2227;Morges;2;22;227
+5423;Ballens;22;VD;2227;Morges;3;23;237
+5424;Berolle;22;VD;2227;Morges;3;23;235
+5425;Bi�re;22;VD;2227;Morges;3;32;327
+5426;Bougy-Villars;22;VD;2227;Morges;3;23;237
+5427;F�chy;22;VD;2227;Morges;3;23;237
+5428;Gimel;22;VD;2227;Morges;2;22;227
+5429;Longirod;22;VD;2228;Nyon;3;23;235
+5430;Marchissy;22;VD;2228;Nyon;3;23;235
+5431;Mollens (VD);22;VD;2227;Morges;3;32;325
+5434;Saint-George;22;VD;2228;Nyon;3;23;237
+5435;Saint-Livres;22;VD;2227;Morges;3;23;235
+5436;Saint-Oyens;22;VD;2227;Morges;3;23;237
+5437;Saubraz;22;VD;2227;Morges;2;22;226
+5451;Avenches;22;VD;2222;Broye-Vully;3;32;326
+5456;Cudrefin;22;VD;2222;Broye-Vully;3;23;237
+5458;Faoug;22;VD;2222;Broye-Vully;3;32;327
+5464;Vully-les-Lacs;22;VD;2222;Broye-Vully;3;32;327
+5471;Bettens;22;VD;2223;Gros-de-Vaud;3;23;237
+5472;Bournens;22;VD;2223;Gros-de-Vaud;3;23;235
+5473;Boussens;22;VD;2223;Gros-de-Vaud;3;23;237
+5474;La Chaux (Cossonay);22;VD;2227;Morges;3;23;237
+5475;Chavannes-le-Veyron;22;VD;2227;Morges;3;23;235
+5476;Chevilly;22;VD;2227;Morges;3;23;235
+5477;Cossonay;22;VD;2227;Morges;2;22;227
+5479;Cuarnens;22;VD;2227;Morges;3;23;235
+5480;Daillens;22;VD;2223;Gros-de-Vaud;3;23;237
+5481;Dizy;22;VD;2227;Morges;3;23;236
+5482;Ecl�pens;22;VD;2227;Morges;2;22;226
+5483;Ferreyres;22;VD;2227;Morges;3;23;237
+5484;Gollion;22;VD;2227;Morges;3;23;237
+5485;Grancy;22;VD;2227;Morges;3;23;236
+5486;L'Isle;22;VD;2227;Morges;3;32;327
+5487;Lussery-Villars;22;VD;2223;Gros-de-Vaud;3;23;235
+5488;Mauraz;22;VD;2227;Morges;3;23;235
+5489;Mex (VD);22;VD;2223;Gros-de-Vaud;3;23;236
+5490;Moiry;22;VD;2227;Morges;3;32;325
+5491;Mont-la-Ville;22;VD;2227;Morges;3;32;325
+5492;Montricher;22;VD;2227;Morges;3;32;327
+5493;Orny;22;VD;2227;Morges;3;32;325
+5495;Penthalaz;22;VD;2223;Gros-de-Vaud;2;21;217
+5496;Penthaz;22;VD;2223;Gros-de-Vaud;2;21;216
+5497;Pompaples;22;VD;2227;Morges;3;32;327
+5498;La Sarraz;22;VD;2227;Morges;2;22;227
+5499;Senarclens;22;VD;2227;Morges;3;23;237
+5501;Sullens;22;VD;2223;Gros-de-Vaud;3;23;236
+5503;Vufflens-la-Ville;22;VD;2223;Gros-de-Vaud;2;22;227
+5511;Assens;22;VD;2223;Gros-de-Vaud;3;23;236
+5512;Bercher;22;VD;2223;Gros-de-Vaud;2;22;227
+5514;Bottens;22;VD;2223;Gros-de-Vaud;3;23;237
+5515;Bretigny-sur-Morrens;22;VD;2223;Gros-de-Vaud;2;22;227
+5516;Cugy (VD);22;VD;2223;Gros-de-Vaud;1;11;113
+5518;Echallens;22;VD;2223;Gros-de-Vaud;2;21;217
+5520;Essertines-sur-Yverdon;22;VD;2223;Gros-de-Vaud;3;23;237
+5521;Etagni�res;22;VD;2223;Gros-de-Vaud;2;22;227
+5522;Fey;22;VD;2223;Gros-de-Vaud;3;23;236
+5523;Froideville;22;VD;2223;Gros-de-Vaud;2;22;227
+5527;Morrens (VD);22;VD;2223;Gros-de-Vaud;2;22;227
+5529;Oulens-sous-Echallens;22;VD;2223;Gros-de-Vaud;3;23;237
+5530;Pailly;22;VD;2223;Gros-de-Vaud;3;23;235
+5531;Penth�r�az;22;VD;2223;Gros-de-Vaud;3;23;236
+5533;Poliez-Pittet;22;VD;2223;Gros-de-Vaud;3;23;236
+5534;Rueyres;22;VD;2223;Gros-de-Vaud;2;22;226
+5535;Saint-Barth�lemy (VD);22;VD;2223;Gros-de-Vaud;3;23;237
+5537;Villars-le-Terroir;22;VD;2223;Gros-de-Vaud;2;22;227
+5539;Vuarrens;22;VD;2223;Gros-de-Vaud;3;23;237
+5540;Montilliez;22;VD;2223;Gros-de-Vaud;3;23;237
+5541;Goumo�ns;22;VD;2223;Gros-de-Vaud;3;23;237
+5551;Bonvillars;22;VD;2224;Jura-Nord vaudois;2;22;226
+5552;Bullet;22;VD;2224;Jura-Nord vaudois;3;33;338
+5553;Champagne;22;VD;2224;Jura-Nord vaudois;2;22;226
+5554;Concise;22;VD;2224;Jura-Nord vaudois;3;23;237
+5555;Corcelles-pr�s-Concise;22;VD;2224;Jura-Nord vaudois;3;23;235
+5556;Fiez;22;VD;2224;Jura-Nord vaudois;3;23;237
+5557;Fontaines-sur-Grandson;22;VD;2224;Jura-Nord vaudois;3;23;235
+5559;Giez;22;VD;2224;Jura-Nord vaudois;3;23;236
+5560;Grandevent;22;VD;2224;Jura-Nord vaudois;3;23;235
+5561;Grandson;22;VD;2224;Jura-Nord vaudois;2;22;227
+5562;Mauborget;22;VD;2224;Jura-Nord vaudois;3;32;325
+5563;Mutrux;22;VD;2224;Jura-Nord vaudois;3;32;325
+5564;Novalles;22;VD;2224;Jura-Nord vaudois;3;23;235
+5565;Onnens (VD);22;VD;2224;Jura-Nord vaudois;3;23;237
+5566;Provence;22;VD;2224;Jura-Nord vaudois;3;32;325
+5568;Sainte-Croix;22;VD;2224;Jura-Nord vaudois;2;31;316
+5571;T�venon;22;VD;2224;Jura-Nord vaudois;3;23;237
+5581;Belmont-sur-Lausanne;22;VD;2226;Lavaux-Oron;1;11;113
+5582;Cheseaux-sur-Lausanne;22;VD;2225;Lausanne;2;21;217
+5583;Crissier;22;VD;2229;Ouest lausannois;1;11;112
+5584;Epalinges;22;VD;2225;Lausanne;1;11;113
+5585;Jouxtens-M�zery;22;VD;2225;Lausanne;1;11;113
+5586;Lausanne;22;VD;2225;Lausanne;1;11;111
+5587;Le Mont-sur-Lausanne;22;VD;2225;Lausanne;1;11;112
+5588;Paudex;22;VD;2226;Lavaux-Oron;1;11;112
+5589;Prilly;22;VD;2229;Ouest lausannois;1;11;112
+5590;Pully;22;VD;2226;Lavaux-Oron;1;11;113
+5591;Renens (VD);22;VD;2229;Ouest lausannois;1;11;112
+5592;Romanel-sur-Lausanne;22;VD;2225;Lausanne;1;11;113
+5601;Chexbres;22;VD;2226;Lavaux-Oron;2;21;217
+5604;Forel (Lavaux);22;VD;2226;Lavaux-Oron;3;23;236
+5606;Lutry;22;VD;2226;Lavaux-Oron;1;11;113
+5607;Puidoux;22;VD;2226;Lavaux-Oron;2;21;217
+5609;Rivaz;22;VD;2226;Lavaux-Oron;2;21;217
+5610;Saint-Saphorin (Lavaux);22;VD;2226;Lavaux-Oron;2;22;227
+5611;Savigny;22;VD;2226;Lavaux-Oron;3;23;237
+5613;Bourg-en-Lavaux;22;VD;2226;Lavaux-Oron;2;22;227
+5621;Aclens;22;VD;2227;Morges;2;22;227
+5622;Bremblens;22;VD;2227;Morges;3;23;236
+5623;Buchillon;22;VD;2227;Morges;2;21;217
+5624;Bussigny;22;VD;2229;Ouest lausannois;1;11;112
+5627;Chavannes-pr�s-Renens;22;VD;2229;Ouest lausannois;1;11;113
+5628;Chigny;22;VD;2227;Morges;1;11;113
+5629;Clarmont;22;VD;2227;Morges;3;23;235
+5631;Denens;22;VD;2227;Morges;2;22;227
+5632;Denges;22;VD;2227;Morges;1;11;112
+5633;Echandens;22;VD;2227;Morges;1;11;112
+5634;Echichens;22;VD;2227;Morges;2;22;227
+5635;Ecublens (VD);22;VD;2229;Ouest lausannois;1;11;112
+5636;Etoy;22;VD;2227;Morges;2;21;217
+5637;Lavigny;22;VD;2227;Morges;2;22;227
+5638;Lonay;22;VD;2227;Morges;1;11;112
+5639;Lully (VD);22;VD;2227;Morges;1;11;113
+5640;Lussy-sur-Morges;22;VD;2227;Morges;2;22;227
+5642;Morges;22;VD;2227;Morges;1;11;112
+5643;Pr�verenges;22;VD;2227;Morges;1;11;113
+5645;Romanel-sur-Morges;22;VD;2227;Morges;3;23;236
+5646;Saint-Prex;22;VD;2227;Morges;2;21;216
+5648;Saint-Sulpice (VD);22;VD;2229;Ouest lausannois;1;11;113
+5649;Tolochenaz;22;VD;2227;Morges;1;11;112
+5650;Vaux-sur-Morges;22;VD;2227;Morges;3;23;237
+5651;Villars-Sainte-Croix;22;VD;2229;Ouest lausannois;1;11;112
+5652;Villars-sous-Yens;22;VD;2227;Morges;3;23;235
+5653;Vufflens-le-Ch�teau;22;VD;2227;Morges;2;22;227
+5654;Vullierens;22;VD;2227;Morges;3;23;236
+5655;Yens;22;VD;2227;Morges;3;23;237
+5656;Hautemorges;22;VD;2227;Morges;3;23;237
+5661;Boulens;22;VD;2223;Gros-de-Vaud;3;23;236
+5663;Bussy-sur-Moudon;22;VD;2222;Broye-Vully;3;32;325
+5665;Chavannes-sur-Moudon;22;VD;2222;Broye-Vully;3;32;325
+5669;Curtilles;22;VD;2222;Broye-Vully;3;32;325
+5671;Dompierre (VD);22;VD;2222;Broye-Vully;3;32;325
+5673;Hermenches;22;VD;2222;Broye-Vully;3;23;235
+5674;Lovatens;22;VD;2222;Broye-Vully;3;32;325
+5675;Lucens;22;VD;2222;Broye-Vully;3;32;326
+5678;Moudon;22;VD;2222;Broye-Vully;2;21;217
+5680;Ogens;22;VD;2223;Gros-de-Vaud;3;23;236
+5683;Pr�vonloup;22;VD;2222;Broye-Vully;3;32;325
+5684;Rossenges;22;VD;2222;Broye-Vully;3;23;235
+5688;Syens;22;VD;2222;Broye-Vully;3;23;236
+5690;Villars-le-Comte;22;VD;2222;Broye-Vully;3;32;325
+5692;Vucherens;22;VD;2222;Broye-Vully;3;23;237
+5693;Montanaire;22;VD;2223;Gros-de-Vaud;3;23;237
+5701;Arnex-sur-Nyon;22;VD;2228;Nyon;2;22;227
+5702;Arzier-Le Muids;22;VD;2228;Nyon;2;22;227
+5703;Bassins;22;VD;2228;Nyon;2;22;227
+5704;Begnins;22;VD;2228;Nyon;2;22;227
+5705;Bogis-Bossey;22;VD;2228;Nyon;1;11;113
+5706;Borex;22;VD;2228;Nyon;2;22;227
+5707;Chavannes-de-Bogis;22;VD;2228;Nyon;1;11;112
+5708;Chavannes-des-Bois;22;VD;2228;Nyon;3;23;237
+5709;Ch�serex;22;VD;2228;Nyon;2;22;227
+5710;Coinsins;22;VD;2228;Nyon;3;23;236
+5711;Commugny;22;VD;2228;Nyon;1;11;113
+5712;Coppet;22;VD;2228;Nyon;1;11;113
+5713;Crans (VD);22;VD;2228;Nyon;2;22;227
+5714;Crassier;22;VD;2228;Nyon;2;22;226
+5715;Duillier;22;VD;2228;Nyon;3;23;236
+5716;Eysins;22;VD;2228;Nyon;1;11;112
+5717;Founex;22;VD;2228;Nyon;1;11;113
+5718;Genolier;22;VD;2228;Nyon;2;22;227
+5719;Gingins;22;VD;2228;Nyon;2;22;226
+5720;Givrins;22;VD;2228;Nyon;2;22;227
+5721;Gland;22;VD;2228;Nyon;1;11;112
+5722;Grens;22;VD;2228;Nyon;2;22;226
+5723;Mies;22;VD;2228;Nyon;1;11;113
+5724;Nyon;22;VD;2228;Nyon;1;11;112
+5725;Prangins;22;VD;2228;Nyon;1;11;112
+5726;La Rippe;22;VD;2228;Nyon;3;23;237
+5727;Saint-Cergue;22;VD;2228;Nyon;2;22;227
+5728;Signy-Avenex;22;VD;2228;Nyon;2;22;227
+5729;Tannay;22;VD;2228;Nyon;1;11;113
+5730;Tr�lex;22;VD;2228;Nyon;2;22;227
+5731;Le Vaud;22;VD;2228;Nyon;2;22;227
+5732;Vich;22;VD;2228;Nyon;1;11;113
+5741;L'Abergement;22;VD;2224;Jura-Nord vaudois;3;23;235
+5742;Agiez;22;VD;2224;Jura-Nord vaudois;3;32;325
+5743;Arnex-sur-Orbe;22;VD;2224;Jura-Nord vaudois;3;32;325
+5744;Ballaigues;22;VD;2224;Jura-Nord vaudois;3;32;326
+5745;Baulmes;22;VD;2224;Jura-Nord vaudois;3;23;236
+5746;Bavois;22;VD;2224;Jura-Nord vaudois;3;23;237
+5747;Bofflens;22;VD;2224;Jura-Nord vaudois;3;32;325
+5748;Bretonni�res;22;VD;2224;Jura-Nord vaudois;3;32;325
+5749;Chavornay;22;VD;2224;Jura-Nord vaudois;2;21;216
+5750;Les Cl�es;22;VD;2224;Jura-Nord vaudois;3;32;327
+5752;Croy;22;VD;2224;Jura-Nord vaudois;3;32;327
+5754;Juriens;22;VD;2224;Jura-Nord vaudois;3;32;325
+5755;Lignerolle;22;VD;2224;Jura-Nord vaudois;3;32;325
+5756;Montcherand;22;VD;2224;Jura-Nord vaudois;3;23;236
+5757;Orbe;22;VD;2224;Jura-Nord vaudois;2;21;216
+5758;La Praz;22;VD;2224;Jura-Nord vaudois;3;32;325
+5759;Premier;22;VD;2224;Jura-Nord vaudois;3;32;325
+5760;Rances;22;VD;2224;Jura-Nord vaudois;3;23;237
+5761;Romainm�tier-Envy;22;VD;2224;Jura-Nord vaudois;3;32;326
+5762;Sergey;22;VD;2224;Jura-Nord vaudois;3;23;235
+5763;Valeyres-sous-Rances;22;VD;2224;Jura-Nord vaudois;3;23;236
+5764;Vallorbe;22;VD;2224;Jura-Nord vaudois;2;31;316
+5765;Vaulion;22;VD;2224;Jura-Nord vaudois;3;32;325
+5766;Vuiteboeuf;22;VD;2224;Jura-Nord vaudois;3;23;237
+5785;Corcelles-le-Jorat;22;VD;2222;Broye-Vully;3;23;235
+5790;Maracon;22;VD;2226;Lavaux-Oron;3;23;236
+5792;Montpreveyres;22;VD;2226;Lavaux-Oron;3;23;237
+5798;Ropraz;22;VD;2222;Broye-Vully;3;23;237
+5799;Servion;22;VD;2226;Lavaux-Oron;3;23;237
+5803;Vulliens;22;VD;2222;Broye-Vully;3;23;235
+5804;Jorat-Menthue;22;VD;2223;Gros-de-Vaud;3;23;237
+5805;Oron;22;VD;2226;Lavaux-Oron;2;22;227
+5806;Jorat-M�zi�res;22;VD;2226;Lavaux-Oron;2;22;227
+5812;Champtauroz;22;VD;2222;Broye-Vully;3;32;325
+5813;Chevroux;22;VD;2222;Broye-Vully;3;32;327
+5816;Corcelles-pr�s-Payerne;22;VD;2222;Broye-Vully;1;13;136
+5817;Grandcour;22;VD;2222;Broye-Vully;3;32;326
+5819;Henniez;22;VD;2222;Broye-Vully;3;32;326
+5821;Missy;22;VD;2222;Broye-Vully;3;32;325
+5822;Payerne;22;VD;2222;Broye-Vully;1;13;137
+5827;Trey;22;VD;2222;Broye-Vully;3;32;325
+5828;Treytorrens (Payerne);22;VD;2222;Broye-Vully;3;32;325
+5830;Villarzel;22;VD;2222;Broye-Vully;3;32;325
+5831;Valbroye;22;VD;2222;Broye-Vully;3;32;326
+5841;Ch�teau-d'Oex;22;VD;2230;Riviera-Pays-d'Enhaut;2;31;317
+5842;Rossini�re;22;VD;2230;Riviera-Pays-d'Enhaut;3;33;338
+5843;Rougemont;22;VD;2230;Riviera-Pays-d'Enhaut;3;33;338
+5851;Allaman;22;VD;2227;Morges;2;22;227
+5852;Bursinel;22;VD;2228;Nyon;2;22;227
+5853;Bursins;22;VD;2228;Nyon;2;22;227
+5854;Burtigny;22;VD;2228;Nyon;3;23;237
+5855;Dully;22;VD;2228;Nyon;2;22;227
+5856;Essertines-sur-Rolle;22;VD;2228;Nyon;3;23;235
+5857;Gilly;22;VD;2228;Nyon;2;22;227
+5858;Luins;22;VD;2228;Nyon;2;22;227
+5859;Mont-sur-Rolle;22;VD;2228;Nyon;2;21;217
+5860;Perroy;22;VD;2228;Nyon;2;22;227
+5861;Rolle;22;VD;2228;Nyon;2;21;217
+5862;Tartegnin;22;VD;2228;Nyon;2;22;227
+5863;Vinzel;22;VD;2228;Nyon;2;22;227
+5871;L'Abbaye;22;VD;2224;Jura-Nord vaudois;3;33;338
+5872;Le Chenit;22;VD;2224;Jura-Nord vaudois;2;31;316
+5873;Le Lieu;22;VD;2224;Jura-Nord vaudois;3;33;338
+5882;Chardonne;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;123
+5883;Corseaux;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;123
+5884;Corsier-sur-Vevey;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;122
+5885;Jongny;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;123
+5886;Montreux;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;121
+5889;La Tour-de-Peilz;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;123
+5890;Vevey;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;121
+5891;Veytaux;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;123
+5892;Blonay - Saint-L�gier;22;VD;2230;Riviera-Pays-d'Enhaut;1;12;123
+5902;Belmont-sur-Yverdon;22;VD;2224;Jura-Nord vaudois;3;23;235
+5903;Bioley-Magnoux;22;VD;2224;Jura-Nord vaudois;3;23;235
+5904;Chamblon;22;VD;2224;Jura-Nord vaudois;2;22;227
+5905;Champvent;22;VD;2224;Jura-Nord vaudois;3;23;236
+5907;Chavannes-le-Ch�ne;22;VD;2224;Jura-Nord vaudois;3;32;327
+5908;Ch�ne-P�quier;22;VD;2224;Jura-Nord vaudois;3;32;326
+5909;Cheseaux-Nor�az;22;VD;2224;Jura-Nord vaudois;1;13;137
+5910;Cronay;22;VD;2224;Jura-Nord vaudois;3;23;235
+5911;Cuarny;22;VD;2224;Jura-Nord vaudois;3;23;235
+5912;D�moret;22;VD;2224;Jura-Nord vaudois;3;23;235
+5913;Donneloye;22;VD;2224;Jura-Nord vaudois;3;23;235
+5914;Ependes (VD);22;VD;2224;Jura-Nord vaudois;3;23;237
+5919;Mathod;22;VD;2224;Jura-Nord vaudois;3;23;235
+5921;Molondin;22;VD;2224;Jura-Nord vaudois;3;23;237
+5922;Montagny-pr�s-Yverdon;22;VD;2224;Jura-Nord vaudois;1;13;137
+5923;Oppens;22;VD;2223;Gros-de-Vaud;3;23;235
+5924;Orges;22;VD;2224;Jura-Nord vaudois;3;23;236
+5925;Orzens;22;VD;2224;Jura-Nord vaudois;3;23;236
+5926;Pomy;22;VD;2224;Jura-Nord vaudois;3;23;237
+5928;Rovray;22;VD;2224;Jura-Nord vaudois;3;23;235
+5929;Suchy;22;VD;2224;Jura-Nord vaudois;3;23;237
+5930;Susc�vaz;22;VD;2224;Jura-Nord vaudois;3;23;235
+5931;Treycovagnes;22;VD;2224;Jura-Nord vaudois;2;22;226
+5932;Ursins;22;VD;2224;Jura-Nord vaudois;3;23;235
+5933;Valeyres-sous-Montagny;22;VD;2224;Jura-Nord vaudois;1;13;137
+5934;Valeyres-sous-Ursins;22;VD;2224;Jura-Nord vaudois;3;23;235
+5935;Villars-Epeney;22;VD;2224;Jura-Nord vaudois;3;23;235
+5937;Vugelles-La Mothe;22;VD;2224;Jura-Nord vaudois;3;23;235
+5938;Yverdon-les-Bains;22;VD;2224;Jura-Nord vaudois;1;13;137
+5939;Yvonand;22;VD;2224;Jura-Nord vaudois;2;22;227
+6002;Brig-Glis;23;VS;2301;Brig;1;13;134
+6004;Eggerberg;23;VS;2301;Brig;2;22;227
+6007;Naters;23;VS;2301;Brig;1;13;134
+6008;Ried-Brig;23;VS;2301;Brig;2;22;227
+6009;Simplon;23;VS;2301;Brig;3;33;338
+6010;Termen;23;VS;2301;Brig;2;22;227
+6011;Zwischbergen;23;VS;2301;Brig;3;33;338
+6021;Ardon;23;VS;2302;Conthey;1;12;123
+6022;Chamoson;23;VS;2302;Conthey;2;22;227
+6023;Conthey;23;VS;2302;Conthey;1;12;123
+6024;Nendaz;23;VS;2302;Conthey;2;22;227
+6025;V�troz;23;VS;2302;Conthey;1;12;123
+6032;Bourg-Saint-Pierre;23;VS;2303;Entremont;3;33;338
+6033;Liddes;23;VS;2303;Entremont;3;33;338
+6034;Orsi�res;23;VS;2303;Entremont;3;33;334
+6035;Sembrancher;23;VS;2303;Entremont;3;33;338
+6037;Val de Bagnes;23;VS;2303;Entremont;2;31;314
+6052;Bellwald;23;VS;2304;Goms;3;33;338
+6054;Binn;23;VS;2304;Goms;3;33;338
+6056;Ernen;23;VS;2304;Goms;3;33;338
+6057;Fiesch;23;VS;2304;Goms;3;33;334
+6058;Fieschertal;23;VS;2304;Goms;3;33;338
+6061;Lax;23;VS;2304;Goms;3;33;338
+6076;Obergoms;23;VS;2304;Goms;3;33;334
+6077;Goms;23;VS;2304;Goms;3;33;334
+6082;Ayent;23;VS;2305;H�rens;2;22;227
+6083;Evol�ne;23;VS;2305;H�rens;3;33;338
+6084;H�r�mence;23;VS;2305;H�rens;3;23;237
+6087;Saint-Martin (VS);23;VS;2305;H�rens;3;23;236
+6089;Vex;23;VS;2305;H�rens;3;23;237
+6090;Mont-Noble;23;VS;2305;H�rens;3;23;237
+6101;Agarn;23;VS;2306;Leuk;3;33;338
+6102;Albinen;23;VS;2306;Leuk;3;33;338
+6104;Ergisch;23;VS;2306;Leuk;3;33;335
+6109;Inden;23;VS;2306;Leuk;3;33;335
+6110;Leuk;23;VS;2306;Leuk;2;31;317
+6111;Leukerbad;23;VS;2306;Leuk;2;31;314
+6112;Oberems;23;VS;2306;Leuk;3;33;335
+6113;Salgesch;23;VS;2306;Leuk;2;22;226
+6116;Varen;23;VS;2306;Leuk;3;33;335
+6117;Guttet-Feschel;23;VS;2306;Leuk;3;33;338
+6118;Gampel-Bratsch;23;VS;2306;Leuk;2;31;317
+6119;Turtmann-Unterems;23;VS;2306;Leuk;3;33;338
+6131;Bovernier;23;VS;2307;Martigny;3;23;237
+6133;Fully;23;VS;2307;Martigny;2;21;217
+6134;Is�rables;23;VS;2307;Martigny;3;23;236
+6135;Leytron;23;VS;2307;Martigny;2;22;227
+6136;Martigny;23;VS;2307;Martigny;1;13;137
+6137;Martigny-Combe;23;VS;2307;Martigny;1;13;137
+6139;Riddes;23;VS;2307;Martigny;2;22;227
+6140;Saillon;23;VS;2307;Martigny;2;22;227
+6141;Saxon;23;VS;2307;Martigny;2;21;217
+6142;Trient;23;VS;2307;Martigny;3;33;338
+6151;Champ�ry;23;VS;2308;Monthey;3;33;334
+6152;Collombey-Muraz;23;VS;2308;Monthey;1;13;137
+6153;Monthey;23;VS;2308;Monthey;1;13;136
+6154;Port-Valais;23;VS;2308;Monthey;3;32;327
+6155;Saint-Gingolph;23;VS;2308;Monthey;3;32;327
+6156;Troistorrents;23;VS;2308;Monthey;1;13;137
+6157;Val-d'Illiez;23;VS;2308;Monthey;3;33;338
+6158;Vionnaz;23;VS;2308;Monthey;2;22;226
+6159;Vouvry;23;VS;2308;Monthey;2;22;226
+6172;Bister;23;VS;2309;Raron;3;23;235
+6173;Bitsch;23;VS;2309;Raron;2;22;227
+6177;Grengiols;23;VS;2309;Raron;3;23;237
+6181;Riederalp;23;VS;2309;Raron;3;33;338
+6191;Ausserberg;23;VS;2309;Raron;3;23;235
+6192;Blatten;23;VS;2309;Raron;3;33;338
+6193;B�rchen;23;VS;2309;Raron;3;23;237
+6194;Eischoll;23;VS;2309;Raron;3;23;237
+6195;Ferden;23;VS;2309;Raron;3;33;338
+6197;Kippel;23;VS;2309;Raron;3;33;338
+6198;Niedergesteln;23;VS;2309;Raron;2;22;227
+6199;Raron;23;VS;2309;Raron;2;22;226
+6201;Unterb�ch;23;VS;2309;Raron;3;23;237
+6202;Wiler (L�tschen);23;VS;2309;Raron;3;33;338
+6203;M�rel-Filet;23;VS;2309;Raron;3;23;236
+6204;Steg-Hohtenn;23;VS;2309;Raron;2;31;316
+6205;Bettmeralp;23;VS;2309;Raron;3;33;334
+6211;Collonges;23;VS;2310;Saint-Maurice;3;32;327
+6212;Dor�naz;23;VS;2310;Saint-Maurice;3;32;327
+6213;Evionnaz;23;VS;2310;Saint-Maurice;3;32;326
+6214;Finhaut;23;VS;2310;Saint-Maurice;3;33;338
+6215;Massongex;23;VS;2310;Saint-Maurice;2;22;227
+6217;Saint-Maurice;23;VS;2310;Saint-Maurice;2;31;317
+6218;Salvan;23;VS;2310;Saint-Maurice;3;23;237
+6219;Vernayaz;23;VS;2310;Saint-Maurice;2;22;226
+6220;V�rossaz;23;VS;2310;Saint-Maurice;3;32;327
+6232;Chalais;23;VS;2311;Sierre;2;22;227
+6235;Chippis;23;VS;2311;Sierre;1;13;136
+6238;Gr�ne;23;VS;2311;Sierre;2;22;227
+6239;Icogne;23;VS;2311;Sierre;3;33;338
+6240;Lens;23;VS;2311;Sierre;3;33;338
+6246;Saint-L�onard;23;VS;2311;Sierre;2;22;227
+6248;Sierre;23;VS;2311;Sierre;1;13;137
+6252;Anniviers;23;VS;2311;Sierre;3;33;334
+6253;Crans-Montana;23;VS;2311;Sierre;1;13;134
+6254;Noble-Contr�e;23;VS;2311;Sierre;1;13;137
+6261;Arbaz;23;VS;2312;Sion;2;22;227
+6263;Grimisuat;23;VS;2312;Sion;1;12;123
+6265;Savi�se;23;VS;2312;Sion;1;12;123
+6266;Sion;23;VS;2312;Sion;1;12;121
+6267;Veysonnaz;23;VS;2312;Sion;2;22;227
+6281;Baltschieder;23;VS;2313;Visp;1;13;137
+6282;Eisten;23;VS;2313;Visp;3;23;235
+6283;Embd;23;VS;2313;Visp;3;23;235
+6285;Gr�chen;23;VS;2313;Visp;3;33;334
+6286;Lalden;23;VS;2313;Visp;1;13;136
+6287;Randa;23;VS;2313;Visp;3;33;338
+6288;Saas-Almagell;23;VS;2313;Visp;3;33;334
+6289;Saas-Balen;23;VS;2313;Visp;3;33;338
+6290;Saas-Fee;23;VS;2313;Visp;2;31;314
+6291;Saas-Grund;23;VS;2313;Visp;3;33;334
+6292;St. Niklaus;23;VS;2313;Visp;3;33;338
+6293;Stalden (VS);23;VS;2313;Visp;3;23;236
+6294;Staldenried;23;VS;2313;Visp;3;23;237
+6295;T�sch;23;VS;2313;Visp;3;33;334
+6296;T�rbel;23;VS;2313;Visp;3;23;235
+6297;Visp;23;VS;2313;Visp;1;13;136
+6298;Visperterminen;23;VS;2313;Visp;3;23;236
+6299;Zeneggen;23;VS;2313;Visp;3;23;235
+6300;Zermatt;23;VS;2313;Visp;1;13;134
+6404;Boudry;24;NE;2400;Cant. de Neuch�tel;1;12;122
+6408;Cortaillod;24;NE;2400;Cant. de Neuch�tel;1;12;123
+6413;Rochefort;24;NE;2400;Cant. de Neuch�tel;3;23;237
+6416;Milvignes;24;NE;2400;Cant. de Neuch�tel;2;21;217
+6417;La Grande B�roche;24;NE;2400;Cant. de Neuch�tel;2;22;227
+6421;La Chaux-de-Fonds;24;NE;2400;Cant. de Neuch�tel;1;12;121
+6422;Les Planchettes;24;NE;2400;Cant. de Neuch�tel;3;23;235
+6423;La Sagne;24;NE;2400;Cant. de Neuch�tel;3;23;237
+6432;La Br�vine;24;NE;2400;Cant. de Neuch�tel;3;33;335
+6433;Brot-Plamboz;24;NE;2400;Cant. de Neuch�tel;3;33;335
+6434;Le Cerneux-P�quignot;24;NE;2400;Cant. de Neuch�tel;3;23;235
+6435;La Chaux-du-Milieu;24;NE;2400;Cant. de Neuch�tel;3;23;235
+6436;Le Locle;24;NE;2400;Cant. de Neuch�tel;1;12;122
+6437;Les Ponts-de-Martel;24;NE;2400;Cant. de Neuch�tel;3;23;237
+6451;Cornaux;24;NE;2400;Cant. de Neuch�tel;2;22;226
+6452;Cressier (NE);24;NE;2400;Cant. de Neuch�tel;2;22;226
+6453;Enges;24;NE;2400;Cant. de Neuch�tel;3;23;235
+6454;Hauterive (NE);24;NE;2400;Cant. de Neuch�tel;1;12;123
+6455;Le Landeron;24;NE;2400;Cant. de Neuch�tel;2;21;216
+6456;Ligni�res;24;NE;2400;Cant. de Neuch�tel;3;23;237
+6458;Neuch�tel;24;NE;2400;Cant. de Neuch�tel;1;12;121
+6459;Saint-Blaise;24;NE;2400;Cant. de Neuch�tel;1;12;123
+6461;La T�ne;24;NE;2400;Cant. de Neuch�tel;1;12;122
+6487;Val-de-Ruz;24;NE;2400;Cant. de Neuch�tel;2;22;226
+6504;La C�te-aux-F�es;24;NE;2400;Cant. de Neuch�tel;3;33;338
+6511;Les Verri�res;24;NE;2400;Cant. de Neuch�tel;3;33;338
+6512;Val-de-Travers;24;NE;2400;Cant. de Neuch�tel;2;31;316
+6601;Aire-la-Ville;25;GE;2500;Cant. de Gen�ve;2;22;226
+6602;Ani�res;25;GE;2500;Cant. de Gen�ve;1;11;113
+6603;Avully;25;GE;2500;Cant. de Gen�ve;3;23;237
+6604;Avusy;25;GE;2500;Cant. de Gen�ve;3;23;237
+6605;Bardonnex;25;GE;2500;Cant. de Gen�ve;2;22;226
+6606;Bellevue;25;GE;2500;Cant. de Gen�ve;1;11;113
+6607;Bernex;25;GE;2500;Cant. de Gen�ve;1;11;113
+6608;Carouge (GE);25;GE;2500;Cant. de Gen�ve;1;11;112
+6609;Cartigny;25;GE;2500;Cant. de Gen�ve;3;23;237
+6610;C�ligny;25;GE;2500;Cant. de Gen�ve;2;22;227
+6611;Chancy;25;GE;2500;Cant. de Gen�ve;2;22;227
+6612;Ch�ne-Bougeries;25;GE;2500;Cant. de Gen�ve;1;11;113
+6613;Ch�ne-Bourg;25;GE;2500;Cant. de Gen�ve;1;11;113
+6614;Choulex;25;GE;2500;Cant. de Gen�ve;2;22;227
+6615;Collex-Bossy;25;GE;2500;Cant. de Gen�ve;2;22;227
+6616;Collonge-Bellerive;25;GE;2500;Cant. de Gen�ve;1;11;112
+6617;Cologny;25;GE;2500;Cant. de Gen�ve;1;11;113
+6618;Confignon;25;GE;2500;Cant. de Gen�ve;1;11;113
+6619;Corsier (GE);25;GE;2500;Cant. de Gen�ve;1;11;113
+6620;Dardagny;25;GE;2500;Cant. de Gen�ve;3;23;236
+6621;Gen�ve;25;GE;2500;Cant. de Gen�ve;1;11;111
+6622;Genthod;25;GE;2500;Cant. de Gen�ve;1;11;113
+6623;Le Grand-Saconnex;25;GE;2500;Cant. de Gen�ve;1;11;112
+6624;Gy;25;GE;2500;Cant. de Gen�ve;2;22;227
+6625;Hermance;25;GE;2500;Cant. de Gen�ve;2;22;227
+6626;Jussy;25;GE;2500;Cant. de Gen�ve;3;23;237
+6627;Laconnex;25;GE;2500;Cant. de Gen�ve;3;23;237
+6628;Lancy;25;GE;2500;Cant. de Gen�ve;1;11;112
+6629;Meinier;25;GE;2500;Cant. de Gen�ve;1;11;113
+6630;Meyrin;25;GE;2500;Cant. de Gen�ve;1;11;112
+6631;Onex;25;GE;2500;Cant. de Gen�ve;1;11;113
+6632;Perly-Certoux;25;GE;2500;Cant. de Gen�ve;1;11;112
+6633;Plan-les-Ouates;25;GE;2500;Cant. de Gen�ve;1;11;112
+6634;Pregny-Chamb�sy;25;GE;2500;Cant. de Gen�ve;1;11;113
+6635;Presinge;25;GE;2500;Cant. de Gen�ve;3;23;237
+6636;Puplinge;25;GE;2500;Cant. de Gen�ve;1;11;112
+6637;Russin;25;GE;2500;Cant. de Gen�ve;3;23;236
+6638;Satigny;25;GE;2500;Cant. de Gen�ve;2;22;226
+6639;Soral;25;GE;2500;Cant. de Gen�ve;3;23;237
+6640;Th�nex;25;GE;2500;Cant. de Gen�ve;1;11;113
+6641;Troinex;25;GE;2500;Cant. de Gen�ve;1;11;113
+6642;Vandoeuvres;25;GE;2500;Cant. de Gen�ve;1;11;113
+6643;Vernier;25;GE;2500;Cant. de Gen�ve;1;11;112
+6644;Versoix;25;GE;2500;Cant. de Gen�ve;1;11;113
+6645;Veyrier;25;GE;2500;Cant. de Gen�ve;1;11;113
+6702;Bo�court;26;JU;2601;Del�mont;3;32;326
+6703;Bourrignon;26;JU;2601;Del�mont;3;32;325
+6704;Ch�tillon (JU);26;JU;2601;Del�mont;3;23;235
+6706;Courchapoix;26;JU;2601;Del�mont;3;23;236
+6708;Courrendlin;26;JU;2601;Del�mont;2;22;226
+6709;Courroux;26;JU;2601;Del�mont;1;13;136
+6710;Court�telle;26;JU;2601;Del�mont;2;22;226
+6711;Del�mont;26;JU;2601;Del�mont;1;13;137
+6712;Develier;26;JU;2601;Del�mont;3;23;236
+6713;Ederswiler;26;JU;2601;Del�mont;3;32;325
+6715;Mervelier;26;JU;2601;Del�mont;3;23;235
+6716;Mettembert;26;JU;2601;Del�mont;3;23;235
+6718;Movelier;26;JU;2601;Del�mont;3;23;235
+6719;Pleigne;26;JU;2601;Del�mont;3;23;235
+6721;Rossemaison;26;JU;2601;Del�mont;1;13;137
+6722;Saulcy;26;JU;2601;Del�mont;3;32;325
+6724;Soyhi�res;26;JU;2601;Del�mont;3;23;237
+6729;Haute-Sorne;26;JU;2601;Del�mont;2;31;316
+6730;Val Terbi;26;JU;2601;Del�mont;2;22;226
+6741;Le B�mont (JU);26;JU;2602;Les Franches-Montagnes;3;33;335
+6742;Les Bois;26;JU;2602;Les Franches-Montagnes;3;33;338
+6743;Les Breuleux;26;JU;2602;Les Franches-Montagnes;3;32;326
+6745;Les Enfers;26;JU;2602;Les Franches-Montagnes;3;33;335
+6748;Les Genevez (JU);26;JU;2602;Les Franches-Montagnes;3;32;326
+6750;Lajoux (JU);26;JU;2602;Les Franches-Montagnes;3;32;326
+6751;Montfaucon;26;JU;2602;Les Franches-Montagnes;3;33;335
+6753;Muriaux;26;JU;2602;Les Franches-Montagnes;3;33;335
+6754;Le Noirmont;26;JU;2602;Les Franches-Montagnes;2;31;316
+6757;Saignel�gier;26;JU;2602;Les Franches-Montagnes;2;31;316
+6758;Saint-Brais;26;JU;2602;Les Franches-Montagnes;3;33;335
+6759;Soubey;26;JU;2602;Les Franches-Montagnes;3;33;335
+6771;Alle;26;JU;2603;Porrentruy;3;33;338
+6774;Boncourt;26;JU;2603;Porrentruy;3;33;338
+6778;Bure;26;JU;2603;Porrentruy;3;33;338
+6781;Coeuve;26;JU;2603;Porrentruy;3;33;335
+6782;Cornol;26;JU;2603;Porrentruy;3;32;326
+6783;Courchavon;26;JU;2603;Porrentruy;3;33;338
+6784;Courgenay;26;JU;2603;Porrentruy;3;32;326
+6785;Courtedoux;26;JU;2603;Porrentruy;3;33;338
+6789;Fahy;26;JU;2603;Porrentruy;3;33;338
+6790;Fontenais;26;JU;2603;Porrentruy;1;13;136
+6792;Grandfontaine;26;JU;2603;Porrentruy;3;33;335
+6800;Porrentruy;26;JU;2603;Porrentruy;1;13;137
+6806;Vendlincourt;26;JU;2603;Porrentruy;3;33;338
+6807;Basse-Allaine;26;JU;2603;Porrentruy;3;33;338
+6808;Clos du Doubs;26;JU;2603;Porrentruy;3;33;338
+6809;Haute-Ajoie;26;JU;2603;Porrentruy;3;33;338
+6810;La Baroche;26;JU;2603;Porrentruy;3;33;338
+6811;Damphreux-Lugnez;26;JU;2603;Porrentruy;3;33;335
+6812;Basse-Vendline;26;JU;2603;Porrentruy;3;33;338
