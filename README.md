@@ -158,25 +158,59 @@ This Table shows the categorical variables `accident_type ` and `road_type` and 
 
 # 3. Modeling
 
+Notebook: `nootebooks/03_model.ipynb`
+
 ## 3.1 Model Selection
 
-<!-- Why logistic regression? -->
+The target `severe` is binary (0/1), so a **multiple logistic regression** (`statsmodels` Logit) is used. It looks at urban/rural and day/night *at the same time* while holding accident type, road type and year constant. The exponentiated coefficients are **odds ratios (OR)**: OR > 1 means higher odds of a severe outcome than the reference group, OR < 1 lower odds. An OR is not a ratio of probabilities.
 
 ## 3.2 Model Preparation
 
-<!-- Target variable, predictors and train/test split -->
+| Role | Variable | Reference category |
+|---|---|---|
+| Target | `severe` (1 = severe/fatal, 0 = light) | – |
+| H1 | `area_type` (Urban / Intermediate / Rural) | Urban |
+| H2 | `night` (22:00-05:59) | Day |
+| Controls | `accident_type`, `road_type`, `year` (categorical, one-hot) | most frequent category / 2021 |
+
+- Intermediate municipalities stay a separate group (BFS: "dense periurban area and rural centres"); for H1 the OR *Rural vs. Urban* is decisive. Sensitivity check without them: OR Rural 1.48 (CI 1.28-1.71), practically unchanged.
+- "Motorway side installation" (36 accidents) is merged into "Motorway" to avoid an unstable estimate.
+- Stratified train/test split 80/20 (`random_state=42`): 71,354 training and 17,839 test accidents, 22.08 % severe in both.
 
 ## 3.3 Model Training
 
-<!-- Logistic regression implementation -->
+- **Model 1 (main model):** `severe ~ area_type + night + accident_type + road_type + year`, estimated on the training data.
+- **Cluster-robust standard errors by municipality** (2,009 clusters), because accidents in the same municipality are not independent.
+- Step-by-step models (adding one control at a time) show how the raw effects change.
+- **Model 2:** adds the interaction `area_type × night`, to test whether the night effect differs by area type.
 
 ## 3.4 Model Evaluation
 
-<!-- Confusion matrix, precision, recall, ROC-AUC -->
+Test data (17,839 accidents, 3,938 severe):
+
+| Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
+|---|---:|---:|---:|---:|---:|
+| Baseline "always light" | 0.779 | 0.000 | 0.000 | 0.000 | 0.500 |
+| Baseline "always severe" | 0.221 | 0.221 | 1.000 | 0.362 | 0.500 |
+| Model 1, threshold 0.50 | 0.779 | 0.000 | 0.000 | 0.000 | 0.622 |
+| Model 1, threshold 0.21 | 0.527 | 0.279 | 0.720 | 0.402 | 0.622 |
+
+- With threshold 0.5 the model predicts no severe accident (all predicted probabilities < 0.4), the result equals the majority baseline. The high accuracy only reflects the class imbalance.
+- The threshold 0.21 was chosen on the **training data** (maximum F1) and then applied to the test data.
+- Training values are almost identical (ROC-AUC 0.632 vs. 0.622), so there is no overfitting. The predictive power is weak (McFadden pseudo R² 0.037).
 
 ## 3.5 Model Interpretation
 
-<!-- Odds ratios and important predictors -->
+| | Raw OR | Adjusted OR, model 1 (95 % CI, cluster-robust) | p |
+|---|---:|---|---:|
+| Rural vs. Urban | 1.60 | 1.49 (1.29-1.72) | < 0.001 |
+| Intermediate vs. Urban | 1.31 | 1.27 (1.10-1.47) | 0.001 |
+| Night vs. Day | 1.18 | 0.97 (0.91-1.03) | 0.32 |
+
+- The rural effect remains after controlling for accident type, road type and year.
+- The raw night difference disappears as soon as the accident type is added (OR 1.18 -> 0.95): about 69 % of night accidents are skidding or self-accidents (day: about 33 %), a type with an above-average share of severe outcomes.
+- Model 2: the night effect differs by area type (joint Wald test p < 0.001). Urban: OR 1.06 (n.s.), Intermediate: 0.90 (n.s.), Rural: 0.76 (0.66-0.89).
+- The accident type itself has the strongest association with severity (e.g. rear-end collisions OR 0.30 vs. skidding/self-accidents).
 
 ---
 
@@ -184,11 +218,14 @@ This Table shows the categorical variables `accident_type ` and `road_type` and 
 
 ## 4.1 Key Findings
 
-<!-- Most important results -->
+- Severe or fatal outcomes are more likely, in terms of odds, in rural than in urban municipalities, also with the same accident type, road type and year.
+- The higher share of severe accidents at night is explained by the different mix of accident types at night.
+- The model is suitable for describing associations (odds ratios with confidence intervals), but it explains only a small part of the severity and predicts single accidents only weakly (ROC-AUC 0.62).
 
 ## 4.2 Hypothesis Evaluation
 
-<!-- H1 and H2: supported or not supported? -->
+- **H1 (rural > urban): supported.** Significant in the χ² test (EDA) and in the adjusted model (OR 1.49, CI 1.29-1.72).
+- **H2 (night > day): supported only bivariate.** Significant in the χ² test, but not in the adjusted model (OR 0.97, CI 0.91-1.03). In rural municipalities the adjusted night odds are even lower than during the day.
 
 ## 4.3 Limitations
 
@@ -204,9 +241,15 @@ This Table shows the categorical variables `accident_type ` and `road_type` and 
 
 - Accidents within the same municipality are not independent; this is addressed in `03_model.ipynb` with cluster-robust standard errors.
 
+- Class imbalance (22 % severe): with the default threshold 0.5 no severe accident is predicted; accuracy alone is misleading.
+
+- Important factors (speed, alcohol, weather, vehicle type, protective equipment) are not in the model, which explains the weak predictive power.
+
+- The accident type may itself be part of the reason why night accidents are more severe; "no night effect with the same accident type" does not mean that night is irrelevant.
+
 ## 4.4 Final Conclusion
 
-<!-- Answer to the research question -->
+Severity of injury accidents in Switzerland is associated with the urban/rural typology (H1 supported, also after adjustment) and strongly with the accident type. The day/night difference (H2) is only visible bivariate and is explained by the accident type in the multiple model. All results are associations, not causal effects.
 
 ---
 
