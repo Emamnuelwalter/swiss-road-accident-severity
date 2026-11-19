@@ -29,7 +29,7 @@ requirements.txt
 
 ## Installation
 
-The notebooks were run with Python 3.13.5 (`01_data`, `02_eda`) and Python 3.14.5 (`03_model`), as printed in the notebooks.
+All three notebooks were last run with Python 3.14.5 and the package versions in `requirements.txt` (see the last cell of each notebook).
 
 ```
 python -m venv .venv
@@ -81,7 +81,7 @@ Open the notebooks from the folder `nootebooks/` (all paths are relative, e.g. `
 ## 1.4 Data Integration
 
 - The data from BFS Municipality was merged (left join) with the traffic accident data on the gde number
-- 89'544 accidents could be paired with the correct municipality 351 (0,39) accidents could not be assigned
+- 89,277 of the 89,544 accidents (2021-2025) could be paired with a BFS municipality; 267 (0.30 %) could not be assigned (municipality codes that do not exist in the BFS file)
 - Added catagorical variable: area_type
 - Added two binäry variables: severe and night
 
@@ -98,7 +98,7 @@ Open the notebooks from the folder `nootebooks/` (all paths are relative, e.g. `
 
 ## 1.7 Data Quality
 
-351 Values could not be assigned with a BFS-Municipality. Data loss of 0.39%
+267 accidents could not be assigned to a BFS municipality. Data loss of 0.30%
 
 ---
 
@@ -108,20 +108,20 @@ Open the notebooks from the folder `nootebooks/` (all paths are relative, e.g. `
 
 | Dataset characteristic | Value |
 |---|---:|
-| Accidents | 89,193 |
-| Unique accident IDs | 89,193 |
+| Accidents | 89,277 |
+| Unique accident IDs | 89,277 |
 | Period | 2021-2025 |
-| Municipalities represented | 2,030 |
+| Municipalities represented | 2,032 |
 | Cantons represented | 26 |
 
 | Accident severity | Accidents | Share | `severe` |
 |---|---:|---:|---:|
-| Light injuries | 69,503 | 77.92% | 0 |
-| Severe injuries | 18,599 | 20.85% | 1 |
-| Fatalities | 1,091 | 1.22% | 1 |
-| **Total** | **89,193** | **100%** | |
+| Light injuries | 69,563 | 77.92% | 0 |
+| Severe injuries | 18,622 | 20.86% | 1 |
+| Fatalities | 1,092 | 1.22% | 1 |
+| **Total** | **89,277** | **100%** | |
 
-The cleaned dataset contains one row per accident with personal injury in Switzerland from 2021 to 2025. Most accidents involve light injuries; 19,690 accidents (22.08%) involve severe injuries or fatalities and form the `severe = 1` group. These figures describe recorded injury accidents, not accident risk per kilometre driven. Percentages may not sum to 100% because of rounding.
+The cleaned dataset contains one row per accident with personal injury in Switzerland from 2021 to 2025. Most accidents involve light injuries; 19,714 accidents (22.08%) involve severe injuries or fatalities and form the `severe = 1` group. These figures describe recorded injury accidents, not accident risk per kilometre driven. Percentages may not sum to 100% because of rounding.
 
 ## 2.2 Accident Severity
 
@@ -137,14 +137,14 @@ The BFS classification distinguishes Urban, Intermediate and Rural municipalitie
 
 | Area type | Accidents | Severe or fatal accidents | Share severe or fatal |
 |---|---:|---:|---:|
-| Urban | 58,336 | 11,607 | 19.90% |
+| Urban | 58,403 | 11,624 | 19.90% |
 | Intermediate | 17,463 | 4,278 | 24.50% |
-| Rural | 13,394 | 3,805 | 28.41% |
+| Rural | 13,411 | 3,812 | 28.42% |
 
 
 ![Share of severe or fatal accidents by urban/rural typology](img/image-2.png)
 
-The share increases from urban to intermediate to rural municipalities, supporting the direction of H1. The rural share is 8.51 percentage points higher than the urban share. This describes severity given an injury accident; it does not establish a causal effect or a higher accident risk per kilometre driven. Differences in accident type, road type and other circumstances may contribute to the association.
+The share increases from urban to intermediate to rural municipalities, supporting the direction of H1. The rural share is 8.52 percentage points higher than the urban share. This describes severity given an injury accident; it does not establish a causal effect or a higher accident risk per kilometre driven. Differences in accident type, road type and other circumstances may contribute to the association.
 
 
 
@@ -221,43 +221,43 @@ The target `severe` is binary (0/1), so a **multiple logistic regression** (`sta
 | H2 | `night` (22:00-05:59) | Day |
 | Controls | `accident_type`, `road_type`, `year` (categorical, one-hot) | most frequent category / 2021 |
 
-- Intermediate municipalities stay a separate group (BFS: "dense periurban area and rural centres"); for H1 the OR *Rural vs. Urban* is decisive. Sensitivity check without them: OR Rural 1.48 (CI 1.28-1.71), practically unchanged.
+- Intermediate municipalities stay a separate group (BFS: "dense periurban area and rural centres"); for H1 the OR *Rural vs. Urban* is decisive. Sensitivity check without them: OR Rural 1.47 (CI 1.27-1.70), practically unchanged.
 - "Motorway side installation" (36 accidents) is merged into "Motorway" to avoid an unstable estimate.
-- Stratified train/test split 80/20 (`random_state=42`): 71,354 training and 17,839 test accidents, 22.08 % severe in both.
+- Stratified train/test split 80/20 (`random_state=42`): 71,421 training and 17,856 test accidents, 22.08 % severe in both.
 
 ## 3.3 Model Training
 
 - **Model 1 (main model):** `severe ~ area_type + night + accident_type + road_type + year`, estimated on the training data.
-- **Cluster-robust standard errors by municipality** (2,009 clusters), because accidents in the same municipality are not independent.
+- **Cluster-robust standard errors by municipality** (2,017 clusters), because accidents in the same municipality are not independent.
 - Step-by-step models (adding one control at a time) show how the raw effects change.
 - **Model 2:** adds the interaction `area_type × night`, to test whether the night effect differs by area type.
 
 ## 3.4 Model Evaluation
 
-Test data (17,839 accidents, 3,938 severe):
+Test data (17,856 accidents, 3,943 severe):
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---:|---:|---:|---:|---:|
 | Baseline "always light" | 0.779 | 0.000 | 0.000 | 0.000 | 0.500 |
 | Baseline "always severe" | 0.221 | 0.221 | 1.000 | 0.362 | 0.500 |
-| Model 1, threshold 0.50 | 0.779 | 0.000 | 0.000 | 0.000 | 0.622 |
-| Model 1, threshold 0.21 | 0.527 | 0.279 | 0.720 | 0.402 | 0.622 |
+| Model 1, threshold 0.50 | 0.779 | 0.000 | 0.000 | 0.000 | 0.632 |
+| Model 1, threshold 0.21 | 0.533 | 0.283 | 0.730 | 0.408 | 0.632 |
 
 - With threshold 0.5 the model predicts no severe accident (all predicted probabilities < 0.4), the result equals the majority baseline. The high accuracy only reflects the class imbalance.
 - The threshold 0.21 was chosen on the **training data** (maximum F1) and then applied to the test data.
-- Training values are almost identical (ROC-AUC 0.632 vs. 0.622), so there is no overfitting. The predictive power is weak (McFadden pseudo R² 0.037).
+- Training values are almost identical (ROC-AUC 0.630 vs. 0.632), so there is no overfitting. The predictive power is weak (McFadden pseudo R² 0.036).
 
 ## 3.5 Model Interpretation
 
 | | Raw OR | Adjusted OR, model 1 (95 % CI, cluster-robust) | p |
 |---|---:|---|---:|
-| Rural vs. Urban | 1.60 | 1.49 (1.29-1.72) | < 0.001 |
-| Intermediate vs. Urban | 1.31 | 1.27 (1.10-1.47) | 0.001 |
-| Night vs. Day | 1.18 | 0.97 (0.91-1.03) | 0.32 |
+| Rural vs. Urban | 1.60 | 1.46 (1.27-1.68) | < 0.001 |
+| Intermediate vs. Urban | 1.31 | 1.24 (1.08-1.42) | 0.003 |
+| Night vs. Day | 1.18 | 0.96 (0.90-1.03) | 0.27 |
 
 - The rural effect remains after controlling for accident type, road type and year.
-- The raw night difference disappears as soon as the accident type is added (OR 1.18 -> 0.95): about 69 % of night accidents are skidding or self-accidents (day: about 33 %), a type with an above-average share of severe outcomes.
-- Model 2: the night effect differs by area type (joint Wald test p < 0.001). Urban: OR 1.06 (n.s.), Intermediate: 0.90 (n.s.), Rural: 0.76 (0.66-0.89).
+- The raw night difference disappears as soon as the accident type is added (OR 1.18 -> 0.95): about 68.5 % of night accidents are skidding or self-accidents (day: about 33 %), a type with an above-average share of severe outcomes.
+- Model 2: the night effect differs by area type (joint Wald test p < 0.001). Urban: OR 1.05 (n.s.), Intermediate: 0.92 (n.s.), Rural: 0.75 (0.65-0.87).
 - The accident type itself has the strongest association with severity (e.g. rear-end collisions OR 0.30 vs. skidding/self-accidents).
 
 ---
@@ -268,12 +268,12 @@ Test data (17,839 accidents, 3,938 severe):
 
 - Severe or fatal outcomes are more likely, in terms of odds, in rural than in urban municipalities, also with the same accident type, road type and year.
 - The higher share of severe accidents at night is explained by the different mix of accident types at night.
-- The model is suitable for describing associations (odds ratios with confidence intervals), but it explains only a small part of the severity and predicts single accidents only weakly (ROC-AUC 0.62).
+- The model is suitable for describing associations (odds ratios with confidence intervals), but it explains only a small part of the severity and predicts single accidents only weakly (ROC-AUC 0.63).
 
 ## 4.2 Hypothesis Evaluation
 
-- **H1 (rural > urban): supported.** Significant in the χ² test (EDA) and in the adjusted model (OR 1.49, CI 1.29-1.72).
-- **H2 (night > day): supported only bivariate.** Significant in the χ² test, but not in the adjusted model (OR 0.97, CI 0.91-1.03). In rural municipalities the adjusted night odds are even lower than during the day.
+- **H1 (rural > urban): supported.** Significant in the χ² test (EDA) and in the adjusted model (OR 1.46, CI 1.27-1.68).
+- **H2 (night > day): supported only bivariate.** Significant in the χ² test, but not in the adjusted model (OR 0.96, CI 0.90-1.03). In rural municipalities the adjusted night odds are even lower than during the day.
 
 ## 4.3 Limitations
 
